@@ -1,6 +1,8 @@
 # FedMVP: Federated Multi-modal Visual Prompt Tuning for Vision-Language Models [ICCV 2025]
 > [Mainak Singha](https://scholar.google.com/citations?user=DvIe72QAAAAJ&hl=en), [Subhankar Roy](https://scholar.google.com/citations?user=YfzgrDYAAAAJ&hl=en), [Sarthak Mehrotra](https://scholar.google.com/citations?user=87yQ-vQAAAAJ&hl=en), [Ankit Jha](https://sites.google.com/view/jha-ankit/), [Moloud Abdar](https://scholar.google.com/citations?user=PwgggdIAAAAJ&hl=en), [Biplab Banerjee](https://biplab-banerjee.github.io/), [Elisa Ricci](https://eliricci.eu/)
 
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/pdf/2404.00710)
+
 Official implementation of the paper "[FedMVP: Federated Multi-modal Visual Prompt Tuning for Vision-Language Models](https://arxiv.org/pdf/2504.20860)"
 
 ## How to install
