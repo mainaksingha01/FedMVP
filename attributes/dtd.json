@@ -1,0 +1,188 @@
+{
+    "banded": [
+        "parallel horizontal or vertical lines", "alternating color bands", "uniform width of bands", 
+        "even spacing between bands", "clear separation between bands", "high contrast between colors", 
+        "smooth transition between bands", "linear repetition", "distinct color gradients", "continuous or broken bands"
+    ],
+    "blotchy": [
+        "irregularly shaped patches", "uneven distribution of blotches", "varied sizes of patches", 
+        "soft or blurred edges", "random placement", "high contrast between patches and background", 
+        "multicolored spots", "overlapping patches", "rough texture", "appearance of staining or splattering"
+    ],
+    "braided": [
+        "interwoven strands", "repetitive crossing pattern", "uniform thickness of strands", 
+        "tight weave", "smooth surface of strands", "consistent interlacing", 
+        "symmetrical or regular pattern", "visible overlaps", "distinct directionality", "contrasting strand colors"
+    ],
+    "bubbly": [
+        "circular or spherical shapes", "translucent or reflective surface", "varied bubble sizes", 
+        "closely packed bubbles", "irregular distribution", "smooth, glossy surface", 
+        "raised or embossed texture", "clusters of bubbles", "shiny highlights", "appearance of liquid or foam"
+    ],
+    "bumpy": [
+        "raised, uneven surface", "irregular, small protrusions", "rough or coarse texture", 
+        "non-uniform distribution of bumps", "dull or matte finish", "varied sizes of bumps", 
+        "shadowing on protrusions", "scattered placement", "solid, rigid appearance", "textured highlights"
+    ],
+    "chequered": [
+        "alternating light and dark squares", "clear grid-like structure", "evenly spaced squares", 
+        "sharp edges of squares", "consistent size of squares", "high contrast between squares", 
+        "symmetrical pattern", "geometric repetition", "black and white or multicolored", "balanced arrangement"
+    ],
+    "cobwebbed": [
+        "thin, intersecting lines", "web-like structure", "radiating or concentric pattern", 
+        "irregular spacing between lines", "delicate or fragile appearance", "transparent or translucent strands", 
+        "random intersections", "spidery arrangement", "uneven thickness of lines", "gaps between strands"
+    ],
+    "cracked": [
+        "irregular, jagged lines", "sharp edges around cracks", "random pattern of fractures", 
+        "visible gaps or fissures", "rough, dry texture", "contrast between cracked areas and background", 
+        "raised edges along cracks", "intersecting lines", "appearance of broken or shattered surface", "non-uniform depth"
+    ],
+    "crosshatched": [
+        "overlapping parallel lines", "lines crossing at angles", "even spacing between lines", 
+        "dense, woven appearance", "sharp intersections", "consistent thickness of lines", 
+        "high contrast between lines and background", "uniform or irregular grid", "layered effect", "symmetrical arrangement"
+    ],
+    "crystalline": [
+        "geometric, sharp-edged shapes", "clear, translucent appearance", "repetitive, ordered structure", 
+        "angular or prismatic forms", "sparkling or reflective surface", "sharp, well-defined edges", 
+        "symmetrical or regular arrangement", "visible light refraction", "rigid, solid texture", "multifaceted surfaces"
+    ],
+    "dotted": [
+        "small, circular shapes", "even or random distribution", "high contrast with background", 
+        "uniform size of dots", "clean, sharp edges", "solid, filled dots", 
+        "regular or irregular pattern", "equal spacing between dots", "multicolored or monochrome", "flat or raised dots"
+    ],
+    "fibrous": [
+        "thread-like strands", "visible fibers", "interwoven or tangled structure", 
+        "rough or coarse texture", "random or layered arrangement", "varied thickness of fibers", 
+        "natural, organic appearance", "directional flow of fibers", "overlapping strands", "soft, flexible texture"
+    ],
+    "flecked": [
+        "tiny specks or particles", "random distribution", "irregular shape of flecks", 
+        "varied sizes of flecks", "soft or blurred edges", "contrast between flecks and background", 
+        "dense or sparse placement", "rough or granular texture", "non-uniform color of flecks", "scattered appearance"
+    ],
+    "freckled": [
+        "small, irregular spots", "random placement", "varied sizes of freckles", 
+        "soft, blended edges", "high contrast between freckles and background", "natural, organic appearance", 
+        "scattered or clustered arrangement", "uneven distribution", "smooth surface with spots", "visible tonal variations"
+    ],
+    "frilly": [
+        "thin, ruffled edges", "delicate, wavy structure", "soft, flowing appearance", 
+        "irregular, scalloped edges", "light and airy texture", "overlapping layers", 
+        "gentle, curved lines", "translucent or sheer material", "fragile, lacy structure", "fluid, organic form"
+    ],
+    "gauzy": [
+        "thin, translucent material", "light, airy texture", "sheer, diaphanous surface", 
+        "visible layering", "soft, flowing appearance", "light filtering through", 
+        "delicate, fine threads", "irregular folds or creases", "smooth, smooth texture", "slightly wrinkled surface"
+    ],
+    "grid": [
+        "intersecting straight lines", "regular square or rectangular cells", "even spacing between lines", 
+        "sharp, well-defined edges", "consistent line thickness", "geometric pattern", 
+        "symmetrical arrangement", "uniform structure", "high contrast between lines and background", "organized, repetitive design"
+    ],
+    "grooved": [
+        "parallel ridges or channels", "consistent spacing between grooves", "sharp, linear indentations", 
+        "regular or irregular grooves", "visible depth in ridges", "raised or recessed texture", 
+        "high contrast between ridges and flat areas", "smooth between grooves", "directional flow of grooves", "appearance of machined surface"
+    ],
+    "honeycombed": [
+        "hexagonal cells", "regular, repeating pattern", "consistent size of cells", 
+        "raised or recessed structure", "clear, sharp edges", "symmetrical arrangement", 
+        "high contrast between cells and background", "visible depth in cells", "rigid, solid texture", "natural, organic appearance"
+    ],
+    "interlaced": [
+        "woven or intertwined strands", "visible overlaps and underlaps", "tight, complex structure", 
+        "consistent thickness of strands", "regular or irregular pattern", "clear intersections", 
+        "contrasting strand colors", "organized, repetitive arrangement", "symmetrical or asymmetrical design", "smooth surface of strands"
+    ],
+    "knitted": [
+        "interconnected loops", "soft, yarn-like texture", "visible stitching patterns", 
+        "repetitive, organized design", "consistent loop size", "raised or textured surface", 
+        "multicolored or monochrome yarn", "flexible, stretchy appearance", "layered structure", "directional flow of stitches"
+    ],
+    "lacelike": ["delicate patterns", "intricate holes", "fine mesh", "repeated motifs", 
+        "lace-like edges", "openwork design", "interwoven threads", "textured openings", 
+        "delicate threads", "patterned lace"
+    ],
+    "lined": ["parallel lines", "uniform spacing", "linear patterns", "straight lines", "regular intervals", 
+        "striped appearance", "consistent line thickness", "line orientation", "line spacing", "line density"
+    ],
+    "marbled": ["swirling patterns", "veined textures", "irregular color distribution", "blended hues", 
+        "fluid shapes", "gradient transitions", "mixed colors", "organic formations", "non-uniform surface", 
+        "varied patterns"
+    ],
+    "matted": ["rough surface", "non-glossy finish", "fiber texture", "absorbent material", "low sheen", 
+        "textured pile", "fabric feel", "dense texture", "surface irregularities", "soft to touch"
+    ],
+    "meshed": ["interlocking patterns", "grid-like structure", "open mesh design", "crossed threads", 
+        "network pattern", "woven network", "regular gaps", "structured holes", "textured grid", "consistent mesh openings"
+    ],
+    "paisley": ["curved patterns", "teardrop shapes", "intricate swirls", "oriental motifs", "repeating paisley shapes", 
+        "delicate lines", "decorative patterns", "vibrant colors", "fluid shapes", "ornamental design"
+    ],
+    "perforated": ["punctured holes", "regular spacing", "consistent perforation", "surface holes", "open pattern", 
+        "textured with holes", "structured perforations", "repeating dots", "evenly spaced", "uniform punctures"
+    ],
+    "pitted": ["indentations", "surface depressions", "uneven texture", "small pits", "dimpled appearance", 
+        "varied pit sizes", "textured with holes", "random indentations", "rough surface", "scattered pits"
+    ],
+    "pleated": ["folded patterns", "regular pleats", "accordion-like folds", "textured ridges", "alternating folds", 
+        "consistent pleat spacing", "structured folds", "fabric ridges", "uniform pleats", "surface folds"
+    ],
+    "polka-dotted": ["regular dots", "uniform dot size", "consistent spacing", "repeating circles", "dot arrangement", 
+        "evenly spaced dots", "patterned circles", "structured layout", "repetitive patterns", "dot density"
+    ],
+    "porous": ["numerous holes", "irregularly sized pores", "textured openings", "permeable surface", "open structure", 
+        "spongy appearance", "voids in surface", "uneven hole distribution", "variable pore sizes", "textured with voids"
+    ],
+    "potholed": ["surface depressions", "irregular holes", "uneven texture", "dimpled appearance", "random potholes", 
+        "varied sizes", "textured with voids", "non-uniform surface", "distressed appearance", "scattered pits"
+    ],
+    "scaly": ["overlapping scales", "textured plates", "scales with varied sizes", "repeating patterns", 
+        "slightly raised edges", "patterned texture", "uniform scale distribution", "layered surface", 
+        "textured ridges", "structured scales"
+    ],
+    "smeared": ["blended edges", "irregular streaks", "transitional colors", "smudged appearance", "uneven texture", 
+        "streaky patterns", "dispersed color", "distorted shapes", "fluid blending", "blurry edges"
+    ],
+    "spiralled": ["circular patterns", "concentric rings", "rotating design", "spiral shapes", "coiled patterns", 
+        "circular motion", "twisting lines", "repeating curves", "inward spiral", "rotating texture"
+    ],
+    "sprinkled": ["scattered spots", "random distribution", "small particles", "evenly dispersed", "irregular spacing", 
+        "light sprinkling", "textured with dots", "varied sizes", "random placement", "flecked appearance"
+    ],
+    "stained": ["uneven color patches", "irregular discoloration", "blotchy patterns", "varied hues", "splotched areas", 
+        "uneven surface", "color irregularities", "streaky stains", "blended discoloration", "patchy appearance"
+    ],
+    "stratified": ["layered textures", "visible strata", "differentiated layers", "stacked patterns", 
+        "layer separation", "textured layers", "distinct bands", "alternating layers", "layered surface", "striped appearance"
+    ],
+    "striped": ["parallel lines", "consistent stripes", "uniform stripe width", "repeating lines", "alternating colors", 
+        "linear pattern", "even stripe spacing", "striped layout", "regular intervals", "striped texture"
+    ],
+    "studded": ["raised dots", "evenly spaced studs", "textured with studs", "repeating patterns", "textured surface", 
+        "uniform stud placement", "decorative studs", "textured bumps", "regular stud density", "embellished surface"
+    ],
+    "swirly": ["curved patterns", "flowing lines", "twisting shapes", "circular motion", "organic swirls", 
+        "undulating patterns", "spiral design", "fluid curves", "repeating swirls", "whorled texture"
+    ],
+    "veined": ["distinct lines", "visible veins", "irregular veining", "branch-like patterns", "textured veins", 
+        "differentiated lines", "layered veins", "natural vein patterns", "vein distribution", "textured with veins"
+    ],
+    "waffled": ["grid patterns", "textured with squares", "repeating waffle design", "structured grid", "evenly spaced", 
+        "checkered appearance", "textured surface", "grid-like texture", "uniform grid layout", "textured cells"
+    ],
+    "woven": ["interlaced fibers", "textured weave", "patterned threads", "crossed fibers", "woven design", 
+        "structured fabric", "regular weave pattern", "textured with threads", "interwoven texture", "fabric texture"
+    ],
+    "wrinkled": ["crumpled appearance", "surface folds", "uneven texture", "dimpled surface", "crinkled patterns", 
+        "irregular wrinkles", "folded design", "textured with creases", "surface distortions", "wrinkled fabric"
+    ],
+    "zigzagged": ["angular patterns", "alternating angles", "repeating zigzags", "sharp angles", "textured with zigzags", 
+        "consistent zigzag spacing", "angular design", "structured pattern", "repeating chevrons", "zigzag lines"
+    ]
+}

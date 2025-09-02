@@ -1,0 +1,502 @@
+{
+    "apple pie": [
+        "golden-brown lattice crust", "visible apple slices", "round, shallow pie shape", "cinnamon sugar dusting", 
+        "crust edges crimped or fluted", "glossy, baked surface", "fruit filling peeking through the crust", "thin, flaky layers", 
+        "slice wedge showing fruit layers", "contrast between filling and crust"
+    ],
+    "baby back ribs": [
+        "glossy, caramelized sauce coating", "meaty rib bones", "charred or grilled exterior", "dark brown or reddish hue",
+        "meat pulling away from bone", "grill marks on meat", "juicy, tender meat texture", "bone structure visible", 
+        "fat marbling on meat", "sticky, saucy glaze"
+    ],
+    "baklava": [
+        "layered, flaky phyllo dough", "golden-brown crisp surface", "visible layers of nuts", "honey syrup glaze",
+        "diamond or square-shaped cut", "slightly sticky texture", "crushed pistachios on top", "thin, translucent layers", 
+        "dense, packed filling", "glossy sheen from syrup"
+    ],
+    "beef carpaccio": [
+        "thin slices of raw beef", "bright red or pink color", "round plate presentation", "olive oil drizzle on top", 
+        "capers scattered", "arugula or herb garnish", "thinly shaved Parmesan cheese", "paper-thin texture", 
+        "seasoning (pepper or salt) sprinkled", "lemon wedges on the side"
+    ],
+    "beef tartare": [
+        "finely chopped raw beef", "bright red or pink hue", "egg yolk on top", "herbs or capers mixed in", 
+        "round patty-like presentation", "crusty bread or toast on the side", "pepper or seasoning sprinkled", "smooth, soft texture", 
+        "tiny diced pickles or onions", "garnished with microgreens or herbs"
+    ],
+    "beet salad": [
+        "vivid red or purple beet slices", "leafy greens or arugula", "crumbled goat cheese", "nuts (often walnuts)", 
+        "balsamic vinaigrette drizzle", "bright orange or yellow beets", "rustic, tossed presentation", "thin beet slices or cubes", 
+        "sprinkled herbs", "contrast between beets and greens"
+    ],
+    "beignets": [
+        "square or round dough shape", "heavy dusting of powdered sugar", "light, golden-brown exterior", "puffy, risen dough", 
+        "light, airy interior", "fried, crisp edges", "irregular surface", "slightly oily sheen", "deep-fried texture", "dense yet fluffy inside"
+    ],
+    "bibimbap": [
+        "assortment of colorful vegetables", "fried egg on top", "thinly sliced beef or other protein", "gochujang sauce drizzle", 
+        "rice base", "vibrant orange or red sauce", "green spinach or sprouts", "julienned carrots", "round, wide bowl", "mix of textures (crunchy vegetables, soft rice)"
+    ],
+    "bread pudding": [
+        "chunky bread pieces", "golden-brown top crust", "soft, custard-like interior", "drizzled caramel or sauce", 
+        "raisins or nuts scattered throughout", "moist, spongy texture", "sugar dusting or glaze", "dense yet soft consistency", 
+        "puffy, risen bread", "cinnamon or spice sprinkled"
+    ],
+    "breakfast burrito": [
+        "tightly wrapped tortilla", "grilled or browned surface", "visible fillings (eggs, cheese, meat)", "overstuffed, bulging shape", 
+        "crispy, golden-brown tortilla edges", "cut in half to show cross-section", "egg and vegetable layers", "cheese melting out", 
+        "compact, handheld size", "foil wrapping at the bottom"
+    ],
+    "bruschetta": [
+        "grilled or toasted bread slices", "chopped tomatoes", "olive oil drizzle", "fresh basil leaves", 
+        "garlic rubbed on bread", "crusty, golden-brown bread", "rough, rustic tomato topping", "sprinkled sea salt", 
+        "mozzarella or Parmesan cheese", "herb garnish"
+    ],
+    "caesar salad": [
+        "crisp Romaine lettuce", "Caesar dressing coating", "shaved Parmesan cheese", "crunchy croutons", 
+        "anchovy fillets", "sprinkled black pepper", "creamy, white dressing", "bacon or protein addition", "rustic, tossed presentation", "lemon wedges on the side"
+    ],
+    "cannoli": [
+        "crispy, fried pastry shell", "ricotta cream filling", "dusting of powdered sugar", "chocolate chips or candied orange peel", 
+        "tube-shaped shell", "crunchy shell texture", "cream-filled ends", "pistachio garnish", "visible filling peeking out", "sprinkled cocoa powder"
+    ],
+    "caprese salad": [
+        "sliced fresh mozzarella", "sliced ripe tomatoes", "basil leaves", "drizzle of balsamic glaze", 
+        "olive oil drizzle", "round plate presentation", "layered tomato and mozzarella", "sprinkled sea salt", 
+        "bright red and white contrast", "fresh, green basil leaves"
+    ],
+    "carrot cake": [
+        "moist, dense cake texture", "visible carrot shreds", "cream cheese frosting", "spiced cake interior", 
+        "chopped nuts on top", "orange-tinted cake color", "round or layered cake", "garnished with carrot decorations", 
+        "crumbly, soft texture", "frosting evenly spread"
+    ],
+    "ceviche": [
+        "raw fish pieces", "citrus-based marinade", "finely diced onions", "bright, vibrant colors (red, green, white)", 
+        "cilantro garnish", "lime wedges on the side", "avocado slices", "chopped peppers", "garnished with microgreens", "served in a glass or shallow bowl"
+    ],
+    "cheese plate": [
+        "assortment of different cheeses", "crackers or bread slices", "fruit garnish (grapes, berries)", "variety of textures (soft, hard cheeses)", 
+        "nuts scattered", "wooden or marble board presentation", "spread of different colors", "honey or jam on the side", 
+        "cut cheeses of various shapes", "knife or cheese spreader placed on board"
+    ],
+    "cheesecake": [
+        "creamy, smooth surface", "dense, compact texture", "graham cracker crust", "fruit topping (often strawberries)", 
+        "evenly cut, triangular slice", "glossy fruit glaze", "thick, uniform layers", "slightly browned edges", 
+        "whipped cream or sauce garnish", "thick, rich filling"
+    ],
+    "chicken curry": [
+        "bright, vibrant curry sauce", "chunks of chicken", "garnished with cilantro", "served with rice or naan", 
+        "thick, rich sauce", "visible spices and herbs", "reddish or yellow color", "round, deep bowl", 
+        "chunks of vegetables in sauce", "glistening, oily surface"
+    ],
+    "chicken quesadilla": [
+        "golden-brown, grilled tortilla", "melting cheese oozing out", "chicken pieces visible", "crispy edges of tortilla", 
+        "cut into triangular wedges", "cheese and chicken cross-section", "served with salsa or sour cream", "herbs or green garnish", 
+        "evenly browned surface", "overstuffed, bulging shape"
+    ],
+    "chicken wings": [
+        "crispy, fried or grilled exterior", "sticky, saucy glaze", "visible bones", "charred or grilled marks", 
+        "deep reddish or orange color", "garnished with celery or carrots", "spicy or buffalo sauce", "glossy, caramelized coating", 
+        "small, round drumsticks", "juicy meat texture"
+    ],
+    "chocolate cake": [
+        "dark, rich chocolate color", "moist, dense texture", "thick layer of chocolate frosting", "layered cake slices", 
+        "glossy frosting surface", "chocolate shavings or decorations", "evenly cut, triangular slice", "garnished with fruit or cream", 
+        "fudge-like filling", "visible crumbs on surface"
+    ],
+    "chocolate mousse": [
+        "light, airy texture", "dark, glossy chocolate surface", "whipped cream topping", "served in a glass or bowl", 
+        "smooth, velvety texture", "garnished with chocolate shavings", "dense, creamy bottom layer", "chocolate curls or decorations", 
+        "rich, dark brown color", "garnished with mint leaves or berries"
+    ],
+    "churros": [
+        "long, ridged dough shape", "golden-brown, crispy exterior", "heavy dusting of cinnamon sugar", "slightly oily sheen", 
+        "served with dipping chocolate", "puffed, light interior", "crunchy, fried texture", "uniform, elongated shape", 
+        "round or spiral cross-section", "slightly irregular surface"
+    ],
+    "clam chowder": [
+        "creamy, thick white soup", "chunks of clams and potatoes", "garnished with parsley or herbs", "crackers or bread on the side", 
+        "visible pieces of celery or onion", "served in a deep bowl", "rich, dense consistency", "cream-colored broth", 
+        "garnished with black pepper", "round soup presentation"
+    ],
+    "club sandwich": [
+        "triple-layered sandwich", "crusty bread slices", "stacked ingredients (lettuce, tomato, bacon)", "toothpick holding sandwich together", 
+        "cut into triangular quarters", "visible cross-section of layers", "mayo or sauce spreading", "grilled, toasted bread", 
+        "served with fries or chips", "layered meats (chicken, turkey)"
+    ],
+    "crab cakes": [
+        "golden-brown, crispy exterior", "visible crab meat chunks", "garnished with lemon wedges", "served with dipping sauce", 
+        "round, flat patty shape", "irregular, flaky texture", "herb garnish on top", "crispy, fried surface", 
+        "crunchy outer layer", "dense, packed filling"
+    ],
+    "creme brulee": [
+        "caramelized, golden-brown sugar crust", "smooth, creamy custard underneath", "served in a shallow dish", "visible vanilla bean specks", 
+        "garnished with berries or mint", "crackling, hard top layer", "rich, pale yellow custard", "slightly browned surface", 
+        "garnished with powdered sugar", "smooth, glossy texture"
+    ],
+    "croque madame": [
+        "toasted bread slices", "fried egg on top", "golden, melted cheese layer", "ham or prosciutto slices inside", 
+        "served with fries or salad", "creamy bechamel sauce", "cut into triangular wedges", "crispy, grilled bread", 
+        "slightly browned edges", "oozing egg yolk on top"
+    ],
+    "cup cakes": [
+        "small, round cake shape", "colorful frosting swirl on top", "decorative sprinkles", "paper cupcake liner", 
+        "moist, dense cake texture", "evenly cut, individual portions", "garnished with fruit or candy", "whipped cream or buttercream topping", 
+        "vibrant, bright colors", "light, airy frosting"
+    ],
+    "deviled eggs": [
+        "hard-boiled egg halves", "creamy, yellow yolk filling", "garnished with paprika or herbs", "served on a platter", 
+        "sprinkled black pepper", "uniform, smooth filling", "round, white egg base", "creamy texture of yolk", 
+        "garnished with parsley or dill", "small, bite-sized portions"
+    ],
+    "donuts": [
+        "round, ring-shaped dough", "glazed or frosted topping", "sprinkles or decorations", "puffy, risen dough", 
+        "golden-brown exterior", "light, airy interior", "visible donut hole", "irregular glaze drips", 
+        "slightly oily sheen", "uniform shape and size"
+    ],
+    "dumplings": [
+        "thin, translucent dough wrapper", "pleated, folded edges", "visible filling inside", "steamed or fried texture", 
+        "irregular, plump shape", "garnished with herbs or sesame seeds", "served with dipping sauce", "light, golden-brown surface if fried", 
+        "soft, chewy texture", "slightly glossy wrapper surface"
+    ],
+    "edamame": [
+        "bright green pods", "garnished with sea salt", "served in a bowl or plate", "slightly wrinkled surface", 
+        "visible beans inside pod", "smooth, glossy texture", "irregular pod shape", "vibrant, fresh color", 
+        "thin, tender pod skin", "garnished with sesame seeds"
+    ],
+    "eggs benedict": [
+        "poached egg on top", "hollandaise sauce coating", "English muffin base", "Canadian bacon or ham layer", 
+        "garnished with chives or parsley", "runny egg yolk", "round, individual portions", "sprinkled black pepper", 
+        "creamy, golden sauce", "served with fries or salad"
+    ],
+    "escargots": [
+        "round snail shells", "garlic butter sauce", "garnished with parsley", "served in a special escargot dish", 
+        "visible, cooked snail inside shell", "lightly browned, baked surface", "small, individual portions", "served with bread or toast", 
+        "green, herb-infused butter", "irregular, plump snail shape"
+    ],
+    "falafel": [
+        "round, fried balls", "golden-brown, crispy exterior", "visible chickpea texture inside", "garnished with herbs or pickles", 
+        "served with pita or hummus", "crumbly, soft interior", "slightly oily sheen", "irregular, rustic shape", 
+        "crunchy, fried texture", "dense, packed filling"
+    ],
+    "filet mignon": [
+        "thick, round steak cut", "dark brown, seared crust", "visible grill marks", "juicy, tender texture", 
+        "garnished with herbs or butter", "deep, rich red color", "served with vegetables or potatoes", "plated on a round dish", 
+        "slightly charred edges", "medium-rare pink center"
+    ],
+    "fish and chips": [
+        "golden-brown, crispy fish fillet", "thick-cut fries", "garnished with lemon wedges", "served with tartar sauce", 
+        "crunchy, battered fish exterior", "moist, flaky fish interior", "deep-fried texture", "rustic, irregular shapes", 
+        "garnished with parsley", "served on a paper-lined basket or plate"
+    ],
+    "foie gras": [
+        "smooth, pale liver texture", "rich, creamy consistency", "thin, seared crust", "garnished with fruit or jam", 
+        "served with toast or crackers", "round or rectangular portions", "glossy, caramelized surface", "light, golden-brown searing", 
+        "smooth, velvety interior", "deep, luxurious presentation"
+    ],
+    "french fries": [
+        "long, thin potato strips", "golden-brown, crispy exterior", "soft, fluffy interior", "uniform, elongated shape", 
+        "slightly oily sheen", "served in a basket or plate", "sprinkled with salt", "irregular, rustic cut", 
+        "crunchy, fried texture", "dipping sauces on the side"
+    ],
+    "french onion soup": [
+        "dark, rich broth", "melted cheese crust on top", "sliced onions visible", "served in a deep bowl", 
+        "garnished with herbs", "toasted bread slice floating", "golden-brown, bubbly cheese surface", "thick, hearty consistency", 
+        "deep brown color", "irregular, rustic presentation"
+    ],
+    "french toast": [
+        "thick, golden-brown bread slices", "powdered sugar dusting", "syrup drizzle on top", "garnished with fruit", 
+        "crispy, caramelized edges", "moist, custard-like interior", "egg-battered texture", "light, fluffy bread", 
+        "slightly irregular shape", "served with butter or cream"
+    ],
+    "fried calamari": [
+        "golden-brown, crispy rings", "light, crunchy batter", "garnished with lemon wedges", "served with dipping sauce", 
+        "irregular, round ring shapes", "slightly oily sheen", "fried, crisp texture", "visible squid tentacles", 
+        "served on a plate or basket", "garnished with herbs or parsley"
+    ],
+    "fried rice": [
+        "rice grains visibly separated", "vibrant mix of vegetables (carrots, peas)", "soy sauce-coated rice", "garnished with green onions", 
+        "chicken, shrimp, or pork pieces mixed in", "scrambled egg pieces", "served in a round bowl", "lightly fried texture", 
+        "garnished with sesame seeds", "irregular, tossed presentation"
+    ],
+    "frozen yogurt": [
+        "swirled, soft texture", "vibrant fruit or candy toppings", "served in a cup or cone", "garnished with sprinkles", 
+        "smooth, creamy consistency", "light, pastel colors", "garnished with fresh fruit slices", "whipped, airy texture", 
+        "vibrant, colorful presentation", "served with a spoon or wafer"
+    ],
+    "garlic bread": [
+        "crust texture", "buttery shine", "presence of herbs", "garlic spread distribution", 
+        "toasted edges", "bread thickness", "golden-brown color", "cut slices", 
+        "herb seasoning visibility", "cheese layer (optional)"
+    ],
+    "gnocchi": [
+        "small, dumpling-like shape", "pillowy texture", "surface ridges", 
+        "smooth, doughy appearance", "creamy or sauce coating", "compact size", 
+        "slightly uneven shape", "sauce type (cream, tomato)", "light yellow or brown color", "herbs or garnish"
+    ],
+    "greek salad": [
+        "feta cheese chunks", "black olives", "cucumber slices", "tomato pieces", 
+        "red onion rings", "green bell pepper slices", "olive oil coating", 
+        "vibrant colors", "herbs like oregano", "large bowl or plate presentation"
+    ],
+    "grilled cheese sandwich": [
+        "melted cheese oozing", "golden-brown toasted bread", "distinct grill marks", 
+        "gooey cheese strands", "buttery outer surface", "thick or thin bread slices", 
+        "cut into halves or quarters", "crisp edges", "cheese color (yellow, white)", "butter sheen"
+    ],
+    "grilled salmon": [
+        "distinct grill marks", "orange-pink flesh", "crispy skin", 
+        "flaky texture", "herb or lemon garnish", "sauce glaze", "light char", 
+        "visible seasoning", "tender interior", "sides like vegetables or lemon"
+    ],
+    "guacamole": [
+        "smooth or chunky texture", "vibrant green color", "lime juice drizzle", 
+        "avocado chunks", "cilantro sprinkles", "onion bits", "tomato chunks", 
+        "jalapeño or chili specks", "smooth or rustic appearance", "served in a bowl"
+    ],
+    "gyoza": [
+        "crescent-shaped dumplings", "crispy bottom surface", "pleated edges", 
+        "light brown pan-fried side", "soft steamed top", "thin dough wrapper", 
+        "visible filling (vegetable, meat)", "served with dipping sauce", "arranged in a circle", "garnished with green onion"
+    ],
+    "hamburger": [
+        "sesame seed bun", "stacked patty and toppings", "melted cheese", 
+        "grilled beef patty", "lettuce and tomato slices", "pickle slices", 
+        "condiments (ketchup, mustard)", "juicy patty texture", "bun with grill marks", "crispy bacon (optional)"
+    ],
+    "hot and sour soup": [
+        "dark brown broth", "tofu chunks", "bamboo shoots", "mushroom slices", 
+        "thinly sliced vegetables", "cloudy broth", "spicy chili oil", 
+        "egg ribbons", "sprinkling of green onions", "served in a bowl"
+    ],
+    "hot dog": [
+        "long sausage in bun", "mustard and ketchup drizzle", "onions or relish toppings", 
+        "grill marks on sausage", "toasted bun", "sliced pickles", "cheese topping (optional)", 
+        "sauerkraut or jalapeños", "grilled onions", "served in a paper tray or plate"
+    ],
+    "huevos rancheros": [
+        "fried eggs on tortillas", "tomato salsa topping", "avocado slices", 
+        "bean spread", "tortilla base", "bright red sauce", "garnished with cilantro", 
+        "cheese sprinkles", "runny egg yolk", "sliced jalapeños"
+    ],
+    "hummus": [
+        "creamy texture", "smooth consistency", "olive oil drizzle", 
+        "sprinkle of paprika or cumin", "chickpeas on top", "garnished with parsley", 
+        "served in a bowl", "bread or vegetable sides", "pita chips", "small well in the center"
+    ],
+    "ice cream": [
+        "creamy texture", "scooped shape", "visible melting", 
+        "bright, contrasting colors", "waffle cone or cup", "toppings like sprinkles", 
+        "chocolate syrup or nuts", "layers of different flavors", "whipped cream on top", "fruity garnish"
+    ],
+    "lasagna": [
+        "layered structure", "cheese topping", "melted cheese", 
+        "meat or vegetable filling", "sauce seepage at edges", "golden-brown top layer", 
+        "wide pasta sheets", "herb sprinkles", "cheese oozing", "visible pasta layers"
+    ],
+    "lobster bisque": [
+        "creamy, smooth texture", "pale orange or pink color", "lobster chunks", 
+        "garnished with herbs", "served in a bowl", "creamy broth", "drizzle of cream", 
+        "slices of bread on the side", "rich, thick consistency", "light foam or bubbles on top"
+    ],
+    "lobster roll sandwich": [
+        "soft bun", "lobster chunks", "light dressing (mayo)", 
+        "lettuce or herbs", "bright red lobster meat", "sliced bun", "buttery coating", 
+        "fresh garnish", "served with fries", "compact, handheld size"
+    ],
+    "macaroni and cheese": [
+        "elbow macaroni shape", "creamy cheese coating", "cheese pull", 
+        "golden-brown baked top", "bubbling cheese", "buttery crust", "rich yellow color", 
+        "herb or breadcrumb garnish", "thick consistency", "visible pasta tubes"
+    ],
+    "macarons": [
+        "smooth, round shells", "bright pastel colors", "filled center", 
+        "crisp edges", "delicate texture", "sandwich-like structure", "two-tone color scheme", 
+        "visible filling", "small, bite-sized", "arranged in a box or on a plate"
+    ],
+    "miso soup": [
+        "clear broth", "tofu cubes", "seaweed strips", 
+        "green onion garnish", "small bowl", "floating bits of miso", "cloudy broth", 
+        "wooden spoon", "light yellow color", "steam rising"
+    ],
+    "mussels": [
+        "black, shell structure", "steamed, opened shells", "orange, fleshy interior", 
+        "served in broth", "arranged in a bowl", "garnished with parsley", "lemon wedge on the side", 
+        "visible juices", "crusty bread on the side", "tightly packed shells"
+    ],
+    "nachos": [
+        "tortilla chips", "melted cheese", "jalapeño slices", "sour cream drizzle", 
+        "ground beef or chicken topping", "guacamole dollops", "tomato chunks", 
+        "layered presentation", "scattered black olives", "colorful combination of toppings"
+    ],
+    "omelette": [
+        "folded egg structure", "smooth yellow surface", "herb garnish (parsley)", 
+        "visible cheese or meat filling", "golden-brown spots", "fluffy texture", 
+        "served on a plate", "vegetables (peppers, onions) visible", "sliced into halves", "steaming hot"
+    ],
+    "onion rings": [
+        "circular shape", "golden-brown crispy coating", "visible onion layers inside", 
+        "deep-fried texture", "crumbled surface", "stacked presentation", "served with dipping sauce", 
+        "thin or thick rings", "lightly oily sheen", "crispy outer layer"
+    ],
+    "oysters": [
+        "half-shell presentation", "creamy white interior", "rough, textured shell", 
+        "garnished with lemon wedges", "served on crushed ice", "briny liquid pooling inside", 
+        "grayish or translucent color", "served with cocktail sauce", "irregular shell shape", "shells arranged on a platter"
+    ],
+    "pad thai": [
+        "flat rice noodles", "peanut garnish", "shrimp or chicken", 
+        "bean sprouts", "green onion strips", "egg mixed into noodles", 
+        "lime wedge on the side", "chili flakes", "sauce coating", "topped with cilantro"
+    ],
+    "paella": [
+        "saffron-infused rice", "mussels and shrimp", "bright yellow-orange color", 
+        "chicken or sausage pieces", "large skillet or pan", "visible bell peppers", 
+        "green peas", "herb garnish", "cooked lemon wedges", "crusty rice at the bottom"
+    ],
+    "pancakes": [
+        "stacked presentation", "round shape", "golden-brown surface", 
+        "butter pat on top", "maple syrup drizzling", "light, fluffy texture", 
+        "visible steam rising", "berries or fruit garnish", "whipped cream", "crispy edges"
+    ],
+    "panna cotta": [
+        "smooth, creamy texture", "wobbly or jiggly appearance", "served in a cup or bowl", 
+        "topped with berries or fruit compote", "light caramel or vanilla color", "drizzled sauce", 
+        "garnished with mint leaves", "clear separation between layers", "shiny surface", "decorative presentation"
+    ],
+    "peking duck": [
+        "crispy, golden-brown skin", "thinly sliced meat", "served with pancakes", 
+        "dark sauce drizzle", "visible layers of skin and meat", "bright orange glaze", 
+        "garnished with green onions", "hoisin sauce", "arranged in slices", "served with cucumber sticks"
+    ],
+    "pho": [
+        "broth-based soup", "flat rice noodles", "thinly sliced beef or chicken", 
+        "garnished with cilantro and basil", "bean sprouts", "lime wedges", 
+        "floating onions", "sriracha and hoisin sauce on the side", "clear, aromatic broth", "served in a large bowl"
+    ],
+    "pizza": [
+        "thin or thick crust", "melting cheese", "pepperoni or other toppings", 
+        "tomato sauce layer", "visible cheese pull", "golden-brown crust", 
+        "slices arranged in a circle", "herb or spice garnish", "bubbly cheese", "crispy edges"
+    ],
+    "pork chop": [
+        "bone-in or boneless cut", "char-grilled marks", "golden-brown sear", 
+        "juicy interior", "visible fat marbling", "garnished with herbs", 
+        "served with a sauce on the side", "tender meat texture", "crispy edges", "herb or vegetable garnish"
+    ],
+    "poutine": [
+        "crispy fries", "brown gravy", "melted cheese curds", 
+        "layered presentation", "rich, gooey texture", "thick gravy consistency", 
+        "browned cheese curds", "served in a bowl or plate", "visible steam rising", "combination of crispy and soft textures"
+    ],
+    "prime rib": [
+        "thick cut of beef", "visible marbling", "medium-rare pink interior", 
+        "dark, seared crust", "juices pooling on plate", "bone-in or boneless", 
+        "rosemary or herb garnish", "served with au jus", "crispy fat cap", "large portion size"
+    ],
+    "pulled pork sandwich": [
+        "shredded pork filling", "soft bun", "barbecue sauce coating", 
+        "visible coleslaw topping", "juicy meat texture", "sauce dripping", 
+        "toasted bun", "stacked filling", "garnished with pickles", "served with fries"
+    ],
+    "ramen": [
+        "noodle soup", "soft-boiled egg", "broth with floating oil droplets", 
+        "nori seaweed", "pork slices (chashu)", "bamboo shoots", 
+        "garnished with green onions", "curly or straight noodles", "served in a large bowl", "light steam rising"
+    ],
+    "ravioli": [
+        "square or round pasta pockets", "stuffed interior", "visible sauce coating", 
+        "cheese filling", "lightly browned edges", "garnished with herbs", 
+        "sprinkled with Parmesan cheese", "served on a plate", "visible fillings (meat, cheese)", "arranged in rows"
+    ],
+    "red velvet cake": [
+        "deep red color", "cream cheese frosting", "layered structure", 
+        "moist cake texture", "white frosting contrast", "sprinkled cake crumbs", 
+        "smooth frosting finish", "served in slices", "decorative presentation", "vibrant color contrast"
+    ],
+    "risotto": [
+        "creamy rice texture", "rich sauce coating", "visible grains", 
+        "cheese garnish", "herb sprinkles", "buttery sheen", 
+        "mushroom or vegetable pieces", "served in a shallow dish", "tender rice grains", "rich aroma"
+    ],
+    "samosa": [
+        "triangular shape", "golden-brown fried exterior", "crispy texture", 
+        "visible stuffing (potato, peas)", "served with chutney", "small, hand-held size", 
+        "deep-fried appearance", "crumbly surface", "garnished with herbs", "arranged in rows or piles"
+    ],
+    "sashimi": [
+        "thin slices of raw fish", "vibrant, translucent color", "arranged on a plate", 
+        "garnished with pickled ginger", "served with soy sauce", "white or pink fish tones", 
+        "smooth, glossy surface", "delicate texture", "accompanied by wasabi", "minimalistic presentation"
+    ],
+    "scallops": [
+        "small, round shape", "seared golden-brown exterior", "creamy white interior", 
+        "served with a sauce drizzle", "garnished with herbs", "tender texture", 
+        "visible grill marks", "stacked presentation", "arranged in a circle", "paired with vegetables"
+    ],
+    "seaweed salad": [
+        "vibrant green color", "thin, shredded seaweed", "garnished with sesame seeds", 
+        "served in a small bowl", "light, glossy texture", "tossed with dressing", 
+        "dark green hues", "chili flakes sprinkled", "smooth, shiny surface", "accompanied by chopsticks"
+    ],
+    "shrimp and grits": [
+        "creamy grits base", "plump shrimp on top", "orange shrimp color", 
+        "garnished with parsley", "buttery sauce drizzle", "crispy shrimp edges", 
+        "served in a bowl", "visible texture contrast", "lightly charred shrimp", "smooth grits consistency"
+    ],
+    "spaghetti bolognese": [
+        "spaghetti noodles", "rich meat sauce", "tomato-based sauce", 
+        "grated Parmesan on top", "topped with fresh herbs", "sauce coating the noodles", 
+        "visible meat chunks", "served in a deep plate", "sauce pooling at the bottom", "steaming hot"
+    ],
+    "spaghetti carbonara": [
+        "spaghetti noodles", "creamy sauce coating", "visible bacon or pancetta", 
+        "grated Parmesan cheese", "egg-based sauce", "garnished with parsley", 
+        "pale yellow sauce", "rich, smooth texture", "cracked black pepper", "tossed presentation"
+    ],
+    "spring rolls": [
+        "crispy, golden-brown exterior", "thin, cylindrical shape", "visible vegetable stuffing", 
+        "lightly fried texture", "served with dipping sauce", "arranged in rows", 
+        "lightly oily sheen", "garnished with cilantro", "crisp edges", "served with lettuce leaves"
+    ],
+    "steak": [
+        "charred grill marks", "juicy, medium-rare interior", "seared crust", 
+        "visible fat marbling", "herb garnish", "served with sides (potatoes)", 
+        "thick cut", "sliced presentation", "red juices pooling", "crispy edges"
+    ],
+    "strawberry shortcake": [
+        "layered structure", "whipped cream topping", "fresh strawberries", 
+        "light, fluffy cake", "vibrant red fruit color", "golden-brown cake layers", 
+        "crumbly texture", "arranged in slices", "sugar dusting", "decorative presentation"
+    ],
+    "sushi": [
+        "rice roll structure", "seaweed wrap", "raw fish topping", 
+        "vibrant color contrast", "garnished with pickled ginger", "served with wasabi", 
+        "bite-sized pieces", "neatly arranged rows", "accompanied by soy sauce", "minimalistic presentation"
+    ],
+    "tacos": [
+        "folded tortilla", "visible meat filling", "toppings (lettuce, cheese)", 
+        "salsa drizzle", "crisp shell", "garnished with cilantro", 
+        "juicy meat texture", "layered presentation", "lime wedges on the side", "arranged in a row"
+    ],
+    "takoyaki": [
+        "round, doughy balls", "drizzled with sauce", "garnished with bonito flakes", 
+        "lightly browned surface", "crispy exterior", "soft, creamy interior", 
+        "visible octopus bits", "served on a skewer", "garnished with green onions", "served in a paper tray"
+    ],
+    "tiramisu": [
+        "layered structure", "dusting of cocoa powder", "creamy mascarpone", 
+        "coffee-soaked ladyfingers", "light, fluffy texture", "served in slices", 
+        "dark and light color contrast", "topped with whipped cream", "decorative presentation", "rich, velvety texture"
+    ],
+    "tuna tartare": [
+        "diced raw tuna", "vibrant red color", "garnished with avocado", 
+        "layered presentation", "served in a ring mold", "light drizzle of sauce", 
+        "herb garnish", "smooth, glossy surface", "topped with sesame seeds", "minimalistic plate arrangement"
+    ],
+    "waffles": [
+        "square or round grid pattern", "golden-brown color", "crispy edges", 
+        "served with syrup", "butter pat on top", "fluffy interior", 
+        "garnished with berries", "whipped cream topping", "stacked presentation", "visible steam"
+    ]
+}

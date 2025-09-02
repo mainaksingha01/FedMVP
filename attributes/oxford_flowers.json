@@ -1,0 +1,410 @@
+{
+   "pink primrose": [
+        "delicate pink flowers", "five petal structure", "green foliage", "smooth texture", 
+        "distinctive shape", "compact growth", "showy appearance", "long-lasting blooms", "elegant appearance", "vivid color"
+    ],
+    "hard-leaved pocket orchid": [
+        "broad, leathery leaves", "small, colorful flowers", "compact growth", "distinctive shape", "smooth texture",
+        "green foliage", "elegant blooms", "showy appearance", "long-lasting", "unique form"
+    ],
+    "canterbury bells": [
+        "bell-shaped flowers", "large blooms", "clusters of color", "green foliage", "distinctive shape", "compact growth",
+        "varied colors", "smooth texture", "elegant appearance", "vivid contrast"
+    ],
+    "sweet pea": [
+        "fragrant flowers", "varied colors", "green foliage", "smooth texture", 
+        "distinctive shape", "compact clusters", "showy appearance", "elegant blooms", "long-lasting", "delicate petals"
+    ],
+    "english marigold": [
+        "vivid orange or yellow petals", "daisy-like flowers", "green foliage", "compact clusters", "showy appearance",
+        "distinctive pattern", "simple structure", "long-lasting blooms", "smooth texture", "vibrant colors"
+    ],
+    "tiger lily": [
+        "orange flowers with black spots", "trumpet-shaped blooms", "green foliage", "smooth texture", 
+        "distinctive shape", "showy appearance", "long-lasting", "bold color", "elegant blooms", "unique pattern"
+    ],
+    "moon orchid": [
+        "large, flat flowers", "white or pale colors", "smooth texture", "distinctive shape", 
+        "green foliage", "showy appearance", "elegant blooms", "long-lasting", "tropical appearance", "unique form"
+    ],
+    "bird of paradise": [
+        "large, colorful flowers", "bird-like shape", "orange and blue color scheme", "tropical appearance", "long stems",
+        "banan-like leaves", "distinctive floral structure", "exotic look", "large size", "vivid contrast"
+    ],
+    "monkshood": [
+        "tall spikes", "helmet-shaped blooms", "blue, purple, or white color", "green foliage", 
+        "distinctive shape", "smooth texture", "elegant appearance", "compact clusters", "showy blooms", "long-lasting"
+    ],
+    "globe thistle": [
+        "round, spiky flower head", "blue or purple color", "green foliage", "unique shape", "dense clusters",
+        "thistle-like appearance", "smooth texture", "bold appearance", "strong stems", "distinctive pattern"
+    ],
+    "snapdragon": [
+        "tall spikes", "colorful flowers", "unique flower shape", "green foliage", 
+        "smooth texture", "compact clusters", "showy appearance", "long-lasting blooms", "distinctive shape", "bold colors"
+    ],
+    "colt's foot": [
+        "yellow daisy-like flowers", "large leaves", "smooth texture", "early bloomer", "cup-shaped flowers", "green foliage",
+        "round shape", "simple structure", "compact growth", "distinctive color"
+    ],
+    "king protea": [
+        "large, spiky flower head", "pink or red color", "thick, leathery leaves", "tropical appearance", 
+        "showy blooms", "unique shape", "distinctive center", "bold colors", "strong stems", "ornamental value"
+    ],
+    "spear thistle": [
+        "spiky flower head", "purple color", "green, spiny foliage", "distinctive shape", 
+        "bold appearance", "smooth texture", "compact growth", "showy blooms", "unique form", "thorny appearance"
+    ],
+    "yellow iris": [
+        "bright yellow flowers", "long, slender petals", "green foliage", "distinctive shape", 
+        "smooth texture", "showy blooms", "elegant appearance", "long-lasting", "tall growth", "delicate structure"
+    ],
+    "globe-flower": [
+        "round, globe-shaped flowers", "bright yellow color", "green foliage", "distinctive shape", "smooth texture",
+        "showy blooms", "compact growth", "delicate appearance", "long-lasting", "ornamental value"
+    ],
+    "purple coneflower": [
+        "purple, daisy-like flowers", "orange central cone", "green foliage", "smooth texture", 
+        "distinctive shape", "showy blooms", "long-lasting", "compact clusters", "elegant appearance", "bold colors"
+    ],
+    "peruvian lily": [
+        "clustered flowers", "varied colors", "green foliage", "smooth texture", 
+        "distinctive petal shape", "showy appearance", "compact growth", "elegant blooms", "long-lasting", "attractive look"
+    ],
+    "balloon flower": [
+        "balloon-like buds", "star-shaped flowers", "purple or blue color", "five petal structure", "bell-shaped blooms",
+        "strong stems", "distinctive shape", "smooth texture", "early blooming", "compact growth"
+    ],
+    "giant white arum lily": [
+        "large white spathe", "central spadix", "green foliage", "smooth texture", "tropical appearance",
+        "elegant shape", "distinctive bloom structure", "long-lasting", "showy appearance", "bold size"
+    ],
+    "fire lily": [
+        "bright red flowers", "long, slender petals", "orange center", "tropical appearance", "green foliage",
+        "showy blooms", "distinctive shape", "smooth texture", "elegant look", "vivid contrast"
+    ],
+    "pincushion flower": [
+        "round, spiky flower head", "bright colors", "green foliage", "distinctive shape", 
+        "smooth texture", "compact growth", "showy blooms", "elegant appearance", "long-lasting", "unique form"
+    ],
+    "fritillary": [
+        "checkered pattern petals", "bell-shaped blooms", "varied colors", "green foliage", "unique shape",
+        "smooth texture", "distinctive pattern", "delicate appearance", "elegant blooms", "compact growth"
+    ],
+    "red ginger": [
+        "bright red flower spikes", "tropical appearance", "green foliage", "smooth texture", 
+        "distinctive shape", "showy blooms", "long-lasting", "bold color", "compact growth", "exotic look"
+    ],
+    "grape hyacinth": [
+        "clusters of small blue flowers", "grape-like shape", "green foliage", "distinctive spikes", "smooth texture",
+        "compact growth", "delicate blooms", "showy appearance", "long-lasting", "unique form"
+    ],
+    "corn poppy": [
+        "vivid red petals", "black center", "simple structure", "green foliage", "round shape", "smooth texture",
+        "compact growth", "distinctive color", "showy blooms", "historical significance"
+    ],
+    "prince of wales feathers": [
+        "feather-like foliage", "green and silver color", "distinctive shape", "smooth texture", 
+        "elegant appearance", "compact growth", "unique form", "showy appearance", "delicate structure", "long-lasting"
+    ],
+    "stemless gentian": [
+        "vivid blue flowers", "green foliage", "smooth texture", "distinctive shape", 
+        "compact growth", "showy blooms", "elegant appearance", "long-lasting", "unique form", "delicate petals"
+    ],
+    "artichoke": [
+        "large green bud", "thistle-like appearance", "spiky outer leaves", "edible inner parts", "oval shape",
+        "purple flowering head", "thick base leaves", "dome shape", "thick and fleshy structure", "green-gray color"
+    ],
+    "sweet william": [
+        "clustered flowers", "varied colors", "green foliage", "distinctive shape", 
+        "smooth texture", "showy blooms", "compact growth", "elegant appearance", "long-lasting", "delicate petals"
+    ],
+    "carnation": [
+        "frilled petals", "varied colors", "sweet fragrance", "rounded shape", "green stems", "dense bloom clusters",
+        "smooth texture", "elegant appearance", "long-lasting", "delicate look"
+    ],
+    "garden phlox": [
+        "large, clustered flowers", "varied colors", "green foliage", "distinctive petals", "smooth texture",
+        "round shape", "showy appearance", "compact growth", "long-lasting blooms", "ornamental use"
+    ],
+    "love in the mist": [
+        "feathery foliage", "delicate blue or pink flowers", "unique seed pods", "green, lacy leaves", 
+        "spiky flower structure", "elegant appearance", "compact growth", "showy blooms", "distinctive shape", "fine texture"
+    ],
+    "mexican aster": [
+        "bright, daisy-like flowers", "vivid pink, purple, or white color", "green foliage", "distinctive shape", 
+        "smooth texture", "compact growth", "long-lasting blooms", "showy appearance", "delicate petals", "attractive look"
+    ],
+    "alpine sea holly": [
+        "spiky blue inflorescence", "silvery-green foliage", "thistle-like structure", "small tubular flowers",
+        "dense clusters", "prickly texture", "arrow-shaped leaves", "sturdy stems", "sharp-edged leaves", "unique shape"
+    ],
+    "ruby-lipped cattleya": [
+        "large, showy flowers", "ruby red lips", "orchid-like structure", "green foliage", 
+        "smooth texture", "distinctive shape", "exotic appearance", "long-lasting blooms", "elegant petals", "bold color"
+    ],
+    "cape flower": [
+        "vividly colored petals", "funnel-shaped blooms", "green foliage", "distinctive shape", "large flower heads",
+        "showy appearance", "compact clusters", "smooth texture", "ornamental use", "vibrant colors"
+    ],
+    "great masterwort": [
+        "star-shaped flowers", "white or pink color", "green foliage", "compact clusters", "distinctive shape",
+        "smooth texture", "elegant blooms", "showy appearance", "long-lasting", "unique form"
+    ],
+    "siam tulip": [
+        "pink to purple flower spikes", "green foliage", "smooth texture", "distinctive shape", 
+        "compact growth", "showy blooms", "long-lasting", "tropical appearance", "elegant blooms", "unique form"
+    ],
+    "lenten rose": [
+        "large, cup-shaped flowers", "varied colors", "green foliage", "smooth texture", 
+        "distinctive petal shape", "elegant blooms", "early flowering", "compact growth", "delicate appearance", "long-lasting"
+    ],
+    "barbeton daisy": [
+        "large daisy-like flower", "bright colors", "petal arrangement", "green foliage", "round shape",
+        "vivid petals", "symmetrical structure", "long-lasting blooms", "simple design", "distinctive pattern"
+    ],
+    "daffodil": [
+        "trumpet-shaped flowers", "yellow or white color", "green foliage", "six petal structure", "distinctive center",
+        "smooth texture", "early bloomer", "simple structure", "long stems", "bright appearance"
+    ],
+    "sword lily": [
+        "tall spikes", "sword-shaped petals", "varied colors", "green foliage", 
+        "smooth texture", "distinctive shape", "showy blooms", "elegant appearance", "long-lasting", "bold color"
+    ],
+    "poinsettia": [
+        "bright red bracts", "green foliage", "distinctive shape", "smooth texture", 
+        "showy appearance", "compact growth", "large, prominent bracts", "elegant blooms", "long-lasting", "ornamental use"
+    ],
+    "bolero deep blue": [
+        "deep blue flowers", "bell-shaped blooms", "compact clusters", "vivid color", "green foliage", "distinctive shape",
+        "long-lasting", "attractive appearance", "dense flower clusters", "ornamental value"
+    ],
+    "wallflower": [
+        "compact clusters", "bright colors", "green foliage", "distinctive shape", 
+        "smooth texture", "showy blooms", "long-lasting", "elegant appearance", "delicate petals", "varied colors"
+    ],
+    "marigold": [
+        "bright orange or yellow petals", "daisy-like flowers", "green foliage", "distinctive center", 
+        "compact clusters", "showy appearance", "long-lasting blooms", "smooth texture", "vivid colors", "ornamental value"
+    ],
+    "buttercup": [
+        "yellow cup-shaped flowers", "green foliage", "shiny petals", "simple structure", "small size", "smooth texture",
+        "five petal arrangement", "distinctive color", "compact plant", "bright appearance"
+    ],
+    "oxeye daisy": [
+        "white petals", "yellow center", "simple daisy-like structure", "green foliage", 
+        "smooth texture", "round shape", "showy blooms", "long-lasting", "compact growth", "distinctive appearance"
+    ],
+    "common dandelion": [
+        "yellow composite flowers", "fluffy seed head", "green serrated leaves", "rosette base", "simple structure",
+        "round shape", "long stems", "bright color", "early bloomer", "common appearance"
+    ],
+    "petunia": [
+        "bell-shaped flowers", "varied colors", "green foliage", "smooth texture", 
+        "distinctive shape", "compact clusters", "showy appearance", "long-lasting blooms", "delicate petals", "ornamental value"
+    ],
+    "wild pansy": [
+        "small, vibrant flowers", "purple, yellow, or white color", "green foliage", "distinctive shape", 
+        "smooth texture", "showy blooms", "delicate appearance", "long-lasting", "compact growth", "varied colors"
+    ],
+    "primula": [
+        "clustered flowers", "varied colors", "green foliage", "distinctive shape", 
+        "smooth texture", "compact growth", "showy blooms", "elegant appearance", "long-lasting", "delicate petals"
+    ],
+    "sunflower": [
+        "large, round flower head", "yellow petals", "dark central disk", "green foliage", 
+        "smooth texture", "distinctive shape", "showy blooms", "tall growth", "bold appearance", "long-lasting"
+    ],
+    "pelargonium": [
+        "rounded flower clusters", "varied colors", "green foliage", "distinctive shape", 
+        "smooth texture", "compact growth", "showy appearance", "long-lasting blooms", "elegant petals", "ornamental use"
+    ],
+    "bishop of llandaff": [
+        "dark red flowers", "black foliage", "yellow center", "dahlia-like appearance", "rounded petals", "compact plant",
+        "vivid color contrast", "uniform shape", "strong stems", "ornamental use"
+    ],
+    "gaura": [
+        "delicate pink or white flowers", "long slender stems", "airy appearance", "green foliage", "spiky flower clusters",
+        "smooth texture", "unique shape", "elegant blooms", "compact growth", "lightweight look"
+    ],
+    "geranium": [
+        "rounded flower clusters", "varied colors", "green foliage", "five-petal structure", "distinctive shape",
+        "smooth texture", "compact growth", "showy blooms", "dense clusters", "ornamental use"
+    ],
+    "orange dahlia": [
+        "large, rounded flowers", "vivid orange color", "green foliage", "distinctive petal arrangement", 
+        "showy blooms", "compact clusters", "smooth texture", "elegant appearance", "long-lasting", "bold color"
+    ],
+    "pink-yellow dahlia": [
+        "large, rounded flowers", "pink and yellow color", "green foliage", "distinctive petal arrangement", 
+        "showy blooms", "compact clusters", "smooth texture", "elegant appearance", "long-lasting", "vivid colors"
+    ],
+    "cautleya spicata": [
+        "spiky red flowers", "green foliage", "tropical appearance", "dense flower spikes", "distinctive shape",
+        "showy blooms", "long stems", "bold colors", "compact plant", "unique form"
+    ],
+    "japanese anemone": [
+        "delicate white or pink flowers", "yellow center", "soft, semi-transparent petals", "green foliage", 
+        "distinctive petal shape", "elegant appearance", "compact growth", "smooth texture", "long stems", "bushy growth"
+    ],
+    "black-eyed susan": [
+        "yellow petals", "dark central disc", "radial symmetry", "simple daisy-like structure", "vivid color",
+        "long-lasting blooms", "strong stems", "round shape", "distinctive contrast", "native appearance"
+    ],
+    "silverbush": [
+        "silvery foliage", "compact growth", "small, inconspicuous flowers", "smooth texture", 
+        "distinctive color", "elegant appearance", "long-lasting", "showy blooms", "unique form", "attractive look"
+    ],
+    "californian poppy": [
+        "bright orange petals", "cup-shaped flowers", "green foliage", "thin stems", "simple structure", "vivid color",
+        "sunny appearance", "open blooms", "delicate texture", "native to California"
+    ],
+    "osteospermum": [
+        "daisy-like flowers", "bright colors", "green foliage", "distinctive shape", 
+        "smooth texture", "compact growth", "showy blooms", "long-lasting", "varied colors", "delicate petals"
+    ],
+    "spring crocus": [
+        "cup-shaped flowers", "purple, yellow, or white color", "green foliage", "smooth texture", 
+        "distinctive shape", "compact growth", "showy blooms", "delicate appearance", "long-lasting", "early flowering"
+    ],
+    "bearded iris": [
+        "ruffled petals", "beard-like structure on lower petals", "varied colors", "sword-shaped leaves", "tall stems",
+        "spiky appearance", "distinctive shape", "rhizome base", "complex bloom structure", "prominent center"
+    ],
+    "windflower": [
+        "delicate, cup-shaped flowers", "varied colors", "green foliage", "smooth texture", 
+        "distinctive shape", "showy blooms", "elegant appearance", "compact growth", "long-lasting", "delicate petals"
+    ],
+    "tree poppy": [
+        "large, bright yellow flowers", "green foliage", "distinctive shape", "smooth texture", 
+        "showy blooms", "compact growth", "elegant appearance", "long-lasting", "bold color", "tropical look"
+    ],
+    "gazania": [
+        "vividly colored petals", "radiant blooms", "green foliage", "daisy-like structure", "distinctive center",
+        "smooth texture", "compact clusters", "showy appearance", "varied colors", "long-lasting"
+    ],
+    "azalea": [
+        "vividly colored funnel-shaped flowers", "green glossy leaves", "clusters of blooms", "bushy growth",
+        "varied flower colors", "rhododendron-like leaves", "multiple petals", "dense foliage", "compact shrub", "large flowers"
+    ],
+    "water lily": [
+        "large, flat flowers", "varied colors", "floating leaves", "green foliage", 
+        "smooth texture", "distinctive shape", "showy blooms", "tropical appearance", "elegant petals", "ornamental use"
+    ],
+    "rose": [
+        "layered petals", "varied colors", "green foliage", "smooth texture", 
+        "distinctive shape", "showy blooms", "elegant appearance", "long-lasting", "complex flower structure", "fragrant"
+    ],
+    "thorn apple": [
+        "spiky fruit", "white or purple flowers", "green foliage", "distinctive shape", 
+        "smooth texture", "showy appearance", "compact growth", "exotic look", "unique form", "thorny structure"
+    ],
+    "morning glory": [
+        "trumpet-shaped flowers", "varied colors", "heart-shaped leaves", "green foliage", 
+        "smooth texture", "vivid colors", "distinctive shape", "climbing growth", "showy blooms", "delicate appearance"
+    ],
+    "passion flower": [
+        "intricate flower structure", "vivid colors", "green foliage", "unique pattern", 
+        "smooth texture", "distinctive shape", "showy blooms", "climbing growth", "exotic appearance", "long-lasting"
+    ],
+    "lotus": [
+        "large, flat petals", "central seed pod", "pink or white color", "green foliage", 
+        "smooth texture", "distinctive shape", "water habitat", "showy blooms", "floating leaves", "ornamental use"
+    ],
+    "toad lily": [
+        "spotted flowers", "purple or white color", "green foliage", "distinctive shape", 
+        "smooth texture", "compact clusters", "showy appearance", "long-lasting", "delicate petals", "elegant appearance"
+    ],
+    "anthurium": [
+        "heart-shaped glossy red spathe", "yellow or white spadix", "dark green glossy leaves", "tropical appearance",
+        "smooth texture", "long-lasting flowers", "distinctive shape", "shiny foliage", "large size", "color contrast"
+    ],
+    "frangipani": [
+        "fragrant flowers", "five-petal structure", "varied colors", "green leaves", "smooth texture",
+        "tropical appearance", "distinctive shape", "compact clusters", "delicate blooms", "ornamental use"
+    ],
+    "clematis": [
+        "large, showy flowers", "five to twelve petals", "varied colors", "green foliage", "climbing growth", "complex blooms",
+        "distinctive center", "smooth texture", "vigorous growth", "elegant appearance"
+    ],
+    "hibiscus": [
+        "large, colorful flowers", "five petal structure", "central stamen", "tropical appearance", "smooth texture",
+        "distinctive shape", "bold colors", "green foliage", "showy blooms", "long-lasting"
+    ],
+    "columbine": [
+        "unique petal structure", "spurred petals", "varied colors", "green foliage", "delicate appearance", "compact clusters",
+        "five-petal arrangement", "distinctive shape", "elegant look", "ornamental use"
+    ],
+    "desert-rose": [
+        "fleshy, succulent leaves", "pink to red flowers", "star-shaped blooms", "tropical appearance", "bold color",
+        "distinctive shape", "smooth texture", "compact growth", "resilient to drought", "ornamental use"
+    ],
+    "tree mallow": [
+        "large, rounded flowers", "pink, purple, or white color", "green foliage", "smooth texture", 
+        "distinctive shape", "showy blooms", "compact growth", "elegant appearance", "long-lasting", "delicate petals"
+    ],
+    "magnolia": [
+        "large, waxy flowers", "varied colors", "broad, green leaves", "smooth texture", 
+        "distinctive shape", "showy blooms", "elegant appearance", "large size", "fragrant flowers", "ornamental use"
+    ],
+    "cyclamen": [
+        "heart-shaped leaves", "reflexed petals", "varied colors", "smooth texture", "tuberous roots", "delicate appearance",
+        "showy blooms", "green foliage", "elegant structure", "compact growth"
+    ],
+    "watercress": [
+        "small white flowers", "green, leafy stems", "distinctive shape", "smooth texture", 
+        "compact growth", "showy appearance", "delicate structure", "long-lasting", "ornamental value", "unique form"
+    ],
+    "canna lily": [
+        "large, colorful flowers", "broad leaves", "tropical appearance", "showy blooms", "distinctive shape", "long stems",
+        "vivid colors", "exotic look", "bold foliage", "large size"
+    ],
+    "hippeastrum": [
+        "large trumpet-shaped flowers", "vivid red or white color", "multiple blooms per stem", "smooth texture",
+        "long, slender stems", "bold appearance", "distinctive shape", "elegant petals", "green foliage", "showy blooms"
+    ],
+    "bee balm": [
+        "bright tubular flowers", "spiky clusters", "green serrated leaves", "minty aroma", "dense foliage",
+        "vivid colors", "unique flower shape", "attractive to bees", "showy blooms", "ruffled appearance"
+    ],
+    "ball moss": [
+        "ball-shaped gray-green growth", "epiphytic plant", "branch-like structure", "dense tufts", "spongy texture",
+        "silvery color", "resilient growth", "hanging clusters", "small size", "unique shape"
+    ],
+    "foxglove": [
+        "tall spikes", "bell-shaped flowers", "purple, pink, or white color", "green foliage", "dense clusters",
+        "unique shape", "smooth texture", "long stems", "showy appearance", "vertical growth"
+    ],
+    "bougainvillea": [
+        "vibrant magenta bracts", "thorny stems", "paper-like texture", "dense clusters", "green foliage", "trailing growth",
+        "bright color", "exotic appearance", "tropical plant", "ornamental use"
+    ],
+    "camellia": [
+        "large, glossy flowers", "shiny green leaves", "rose-like structure", "varied colors", "deep center", "elegant appearance",
+        "rounded shape", "dense foliage", "ornamental use", "smooth petals"
+    ],
+    "mallow": [
+        "cup-shaped flowers", "pink, white, or purple color", "green foliage", "smooth texture", 
+        "distinctive petal shape", "compact growth", "showy blooms", "delicate appearance", "rounded shape", "long-lasting"
+    ],
+    "mexican petunia": [
+        "vivid purple or pink flowers", "trumpet-shaped blooms", "green foliage", "smooth texture", 
+        "distinctive shape", "compact clusters", "showy appearance", "long-lasting", "delicate petals", "ornamental use"
+    ],
+    "bromelia": [
+        "rosette shape", "spiky leaves", "bright-colored flower spike", "tropical appearance", "sturdy foliage", "unique form",
+        "dense flower cluster", "smooth texture", "large size", "vivid contrast"
+    ],
+    "blanket flower": [
+        "red and yellow petals", "daisy-like structure", "central cone", "vivid color contrast", "spiky outer petals",
+        "compact growth", "long-lasting blooms", "round shape", "attractive to pollinators", "vibrant appearance"
+    ],
+    "trumpet creeper": [
+        "large trumpet-shaped flowers", "orange or red color", "green foliage", "smooth texture", 
+        "distinctive shape", "climbing growth", "showy blooms", "long-lasting", "bold color", "exotic appearance"
+    ],
+    "blackberry lily": [
+        "orange flowers with black spots", "spiky flower clusters", "sword-like leaves", "large blooms", "long stems",
+        "showy appearance", "colorful petals", "distinctive pattern", "tropical look", "ornamental value"
+    ]
+}

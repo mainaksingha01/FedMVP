@@ -1,0 +1,150 @@
+{
+    "abyssinian": [
+        "short, sleek coat", "ruddy or reddish-brown fur", "large, almond-shaped eyes", "ears set wide apart", "muscular build",
+        "slightly arched neck", "slim, graceful legs", "thin, whip-like tail", "slender body", "ticking or agouti pattern on fur"
+    ],
+    "american bulldog": [
+        "broad, muscular body", "square-shaped head", "short, smooth coat", "strong, broad chest", "distinctive underbite",
+        "short muzzle", "deep-set eyes", "strong, powerful legs", "thick neck", "large paws"
+    ],
+    "american pit bull terrier": [
+        "muscular build", "short, smooth coat", "broad head", "strong jaws", "wide-set chest",
+        "short muzzle", "medium-sized ears, often cropped", "powerful legs", "athletic stance", "variety of coat colors"
+    ],
+    "basset hound": [
+        "long, droopy ears", "short legs", "wrinkled skin", "long body", "sad, droopy eyes",
+        "large paws", "smooth, short coat", "distinctive white, brown, and black coloring", "slow, lumbering gait", "prominent nose and scent-trailing behavior"
+    ],
+    "beagle": [
+        "medium-sized body", "short, smooth coat", "tricolor or bicolor fur pattern", "long, floppy ears", "distinctive white-tipped tail",
+        "large, expressive eyes", "muscular build", "scent-trailing posture", "compact, athletic body", "wide chest"
+    ],
+    "bengal": [
+        "distinctive spotted or marbled coat", "large, muscular build", "short, dense fur", "wild, leopard-like appearance", "sleek, athletic body",
+        "broad nose", "small, rounded ears", "alert, expressive eyes", "distinctive whisker pads", "large, round paws"
+    ],
+    "birman": [
+        "silky, long coat", "color-point fur pattern", "deep blue eyes", "white “gloves” on paws", "stocky, medium-sized body",
+        "broad face", "luxurious ruff around neck", "bushy tail", "gentle, rounded features", "soft, plush texture of fur"
+    ],
+    "bombay": [
+        "jet-black, shiny coat", "round, copper-colored eyes", "muscular, medium-sized body", "short, sleek fur", "rounded head",
+        "medium-sized ears", "short, rounded nose", "strong, agile legs", "compact body", "graceful, panther-like movement"
+    ],
+    "boxer": [
+        "muscular, square-shaped body", "short, smooth coat", "broad, short muzzle", "wrinkled forehead", "deep-set eyes",
+        "strong, muscular chest", "short, docked tail", "large, powerful paws", "athletic build", "expressive, alert face"
+    ],
+    "british shorthair": [
+        "dense, plush coat", "round face", "large, round eyes", "stocky, muscular build", "short, thick neck",
+        "broad chest", "short, thick legs", "round paws", "plush, bushy tail", "calm, regal posture"
+    ],
+    "chihuahua": [
+        "small, compact body", "large, round eyes", "large, erect ears", "apple-shaped head", "short or long coat",
+        "pointed muzzle", "variety of coat colors", "short legs", "tiny paws", "alert, confident expression"
+    ],
+    "egyptian mau": [
+        "spotted coat pattern", "medium, muscular build", "large, almond-shaped eyes", "short, dense fur", "slender, graceful legs",
+        "distinctive facial markings", "arched back", "large, expressive ears", "striped tail", "wide-set eyes"
+    ],
+    "english cocker spaniel": [
+        "long, wavy ears", "medium, athletic build", "silky, medium-length coat", "large, round eyes", "distinctive feathering on legs and belly",
+        "broad, square muzzle", "compact, muscular body", "wide chest", "expressive, alert face", "wagging, docked tail"
+    ],
+    "english setter": [
+        "long, feathered coat", "spotted or speckled fur pattern", "long, floppy ears", "athletic build", "broad, expressive face",
+        "feathering on legs and tail", "graceful, elegant posture", "long, straight legs", "large, round eyes", "long, straight tail"
+    ],
+    "german shorthaired": [
+        "short, dense coat", "muscular, athletic build", "broad, deep chest", "long, powerful legs", "long, straight muzzle",
+        "large, expressive eyes", "pointed ears, often floppy", "short, docked tail", "distinctive liver and white coloring", "alert, focused expression"
+    ],
+    "great pyrenees": [
+        "large, muscular build", "thick, double-layered coat", "white or off-white fur", "broad, deep chest", "large, round paws",
+        "thick, bushy tail", "strong, powerful legs", "expressive, almond-shaped eyes", "black nose and lips", "gentle, calm posture"
+    ],
+    "havanese": [
+        "long, silky coat", "small, compact body", "large, round eyes", "broad, expressive face", "short legs",
+        "feathered tail carried over the back", "variety of coat colors", "fluffy, curled tail", "round, wide paws", "playful, alert expression"
+    ],
+    "japanese chin": [
+        "small, compact body", "short, upturned muzzle", "large, expressive eyes", "long, flowing coat", "distinctive feathering on ears and tail",
+        "broad, flat face", "wide-set eyes", "short legs", "fluffy tail carried over the back", "elegant, dignified posture"
+    ],
+    "keeshond": [
+        "thick, double-layered coat", "bushy tail carried over the back", "distinctive “spectacles” marking around eyes", "compact, muscular build", "fox-like face",
+        "pointed ears", "large, expressive eyes", "short legs", "broad chest", "dense, fluffy fur"
+    ],
+    "leonberger": [
+        "large, muscular build", "thick, double-layered coat", "mane-like fur around neck", "broad, deep chest", "large, expressive eyes",
+        "long, bushy tail", "powerful, straight legs", "broad, square muzzle", "feathering on legs and belly", "calm, regal posture"
+    ],
+    "maine coon": [
+        "large, muscular build", "long, bushy tail", "tufted ears", "long, silky coat", "broad, expressive face",
+        "large, round paws", "feathering on legs and belly", "wide-set eyes", "strong, powerful legs", "prominent ruff around neck"
+    ],
+    "miniature pinscher": [
+        "small, compact body", "short, sleek coat", "muscular build", "pointed, erect ears", "narrow, pointed muzzle",
+        "alert, confident posture", "small, round paws", "short, docked tail", "variety of coat colors", "athletic, agile stance"
+    ],
+    "newfoundland": [
+        "large, muscular build", "thick, double-layered coat", "broad, deep chest", "large, round paws", "long, bushy tail",
+        "powerful, straight legs", "broad, square muzzle", "expressive, almond-shaped eyes", "feathering on legs and belly", "calm, gentle posture"
+    ],
+    "persian": [
+        "long, thick coat", "flat, round face", "large, round eyes", "broad, short muzzle", "small, rounded ears",
+        "broad, stocky build", "short legs", "thick, fluffy tail", "luxurious ruff around neck", "soft, plush texture of fur"
+    ],
+    "pomeranian": [
+        "small, compact body", "thick, double-layered coat", "fox-like face", "pointed ears", "fluffy tail carried over the back",
+        "large, round eyes", "broad, expressive face", "short legs", "feathered tail", "alert, confident posture"
+    ],
+    "pug": [
+        "short, stocky body", "wrinkled face", "short, smooth coat", "curly tail", "broad, flat muzzle",
+        "large, round eyes", "short legs", "compact, muscular build", "distinctive nose shape", "playful, alert expression"
+    ],
+    "ragdoll": [
+        "long, silky coat", "blue eyes", "color-point fur pattern", "large, muscular build", "broad, expressive face",
+        "luxurious ruff around neck", "bushy tail", "soft, plush texture of fur", "large, round paws", "calm, relaxed posture"
+    ],
+    "russian blue": [
+        "short, dense coat", "solid blue-gray color", "large, round green eyes", "slender, graceful build", "pointed, upright ears",
+        "long, slender legs", "broad, angular face", "thin, elegant tail", "soft, plush texture of fur", "alert, regal posture"
+    ],
+    "saint bernard": [
+        "large, muscular build", "thick, double-layered coat", "broad, deep chest", "large, round paws", "long, bushy tail",
+        "broad, square muzzle", "wrinkled face", "expressive, almond-shaped eyes", "strong, powerful legs", "calm, gentle posture"
+    ],
+    "samoyed": [
+        "thick, fluffy coat", "white or cream-colored fur", "muscular, athletic build", "broad, deep chest", "large, round paws",
+        "bushy tail carried over the back", "expressive, almond-shaped eyes", "pointed ears", "smiling expression", "strong, straight legs"
+    ],
+    "scottish terrier": [
+        "short, stocky build", "distinctive beard and eyebrows", "wiry, dense coat", "short legs", "pointed ears",
+        "broad, expressive face", "compact, muscular body", "short, docked tail", "large, round paws", "alert, confident posture"
+    ],
+    "shiba inu": [
+        "compact, muscular build", "thick, double-layered coat", "curled tail", "fox-like face", "pointed, upright ears",
+        "broad, expressive face", "large, round eyes", "short legs", "feathered tail", "confident, regal posture"
+    ],
+    "siamese": [
+        "short, sleek coat", "blue eyes", "color-point fur pattern", "slender, graceful build", "broad, angular face",
+        "pointed, upright ears", "long, slender legs", "thin, elegant tail", "soft, plush texture of fur", "alert, regal posture"
+    ],
+    "sphynx": [
+        "hairless, wrinkled skin", "large, bat-like ears", "slender, muscular build", "broad, angular face", "large, expressive eyes",
+        "long, slender legs", "thin, whip-like tail", "prominent cheekbones", "warm, velvety skin", "graceful, agile posture"
+    ],
+    "staffordshire bull terrier": [
+        "muscular, stocky build", "broad head", "short, smooth coat", "strong, broad chest", "short muzzle",
+        "large, round eyes", "powerful legs", "short, docked tail", "compact, athletic body", "alert, confident expression"
+    ],
+    "wheaten terrier": [
+        "soft, silky coat", "wheaten or light-colored fur", "medium-sized build", "long, floppy ears", "broad, expressive face",
+        "large, round eyes", "short, feathered tail", "muscular, athletic build", "strong, straight legs", "alert, confident posture"
+    ],
+    "yorkshire terrier": [
+        "small, compact body", "long, silky coat", "blue and tan coloring", "pointed, upright ears", "broad, expressive face",
+        "large, round eyes", "short legs", "feathered tail", "muscular, stocky build", "playful, alert expression"
+    ]
+}

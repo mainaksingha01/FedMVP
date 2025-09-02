@@ -1,0 +1,62 @@
+{
+    "bird": [
+        "small, streamlined body with feathers",
+        "visible wings for flight with layered feathers",
+        "beak with varying shapes depending on species",
+        "distinctive head shape with round eyes",
+        "feet with claws or talons for perching",
+        "tail feathers often fanned or straight",
+        "shading for smooth or glossy feather texture",
+        "surrounding nature or sky setting",
+        "occasional perched position on branch",
+        "size relative to other animals or objects"
+    ],
+    "car": [
+        "four wheels with visible treads and hubcaps",
+        "distinct body shape with doors and windows",
+        "visible headlights and taillights",
+        "shiny, metallic or painted surface",
+        "shading for reflective glass windows",
+        "visible brand logo or grille on front",
+        "curved or boxy structure depending on model",
+        "surrounding street or road setting",
+        "visible exhaust or side mirrors",
+        "size relative to surrounding vehicles or pedestrians"
+    ],
+    "chair": [
+        "flat seat with visible backrest",
+        "legs providing support, usually four",
+        "smooth or textured material like wood or fabric",
+        "curved or straight back for comfort",
+        "visible armrests on some models",
+        "shading for material finish, wood or metal",
+        "simple background highlighting structure",
+        "positioned in dining or office setting",
+        "occasional cushions or padding",
+        "size relative to table or person nearby"
+    ],
+    "dog": [
+        "medium to large body with four legs",
+        "distinctive fur texture and color patterns",
+        "long or short tail, depending on breed",
+        "pointed or floppy ears",
+        "expressive face with prominent eyes",
+        "visible snout and nose shape",
+        "positioned on ground or beside humans",
+        "shading for fur and coat texture",
+        "visible collar or leash sometimes",
+        "size relative to humans or other animals"
+    ],
+    "person": [
+        "upright posture with two legs and arms",
+        "head with distinctive facial features",
+        "visible clothing on upper and lower body",
+        "varied skin tone with shading for detail",
+        "hands with visible fingers and nails",
+        "visible facial expressions showing emotions",
+        "simple background to highlight figure",
+        "positioned in social or natural settings",
+        "occasional accessories like hats or glasses",
+        "size relative to other people or objects nearby"
+    ]
+}

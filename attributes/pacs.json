@@ -1,0 +1,86 @@
+{
+    "dog": [
+        "fur texture and color patterns, which vary by breed",
+        "ear shape, like floppy, upright, or semi-floppy",
+        "snout shape and length, from short to elongated",
+        "tail shape and position, often showing curvature",
+        "body structure, including muscular or slender build",
+        "eye placement and shape, expressing alertness or relaxation",
+        "distinct nose shape, often round and prominent",
+        "paw size and structure, adapted for breed or size",
+        "coat color patterns, including spots, stripes, or patches",
+        "overall posture, like sitting, standing, or lying down"
+    ],
+    "elephant": [
+        "long, curved trunk, a defining feature of elephants",
+        "large, floppy ears, differing slightly between species",
+        "tusks, often white and curved, present in adults",
+        "thick, wrinkled skin texture, visible across the body",
+        "massive body size compared to other animals",
+        "broad legs with large, rounded feet",
+        "tail with a tuft of hair at the end",
+        "distinctive head shape with a high forehead",
+        "small eyes located low on the head",
+        "skin folds around joints and neck for added detail"
+    ],
+    "giraffe": [
+        "exceptionally long neck, a primary distinguishing feature",
+        "unique coat pattern with large, irregular brown patches",
+        "small, rounded ossicones or horns on the head",
+        "slender, elongated legs, emphasizing their height",
+        "tall, narrow body frame with prominent shoulders",
+        "small head with large, expressive eyes",
+        "tail with a tuft at the end, often thin and long",
+        "rounded hooves, small relative to leg size",
+        "distinct facial features, including long eyelashes",
+        "elegant posture, often depicted bending or standing tall"
+    ],
+    "guitar": [
+        "body shape, either rounded for acoustic or angular for electric",
+        "neck length with visible frets and position markers",
+        "soundhole in acoustic guitars, a central circular feature",
+        "strings across the body and neck, typically six in number",
+        "headstock with tuning pegs, unique to guitar type",
+        "bridge on the body, anchoring the strings",
+        "pickguard, often a contrasting color on acoustic guitars",
+        "body color and finish, varying from wood grain to solid colors",
+        "distinct contours and curves defining body shape",
+        "additional features like pickups in electric guitars"
+    ],
+    "horse": [
+        "defined body shape with muscular contours",
+        "legs with visible hooves, often shown with joints",
+        "flowing mane, adding texture and movement",
+        "tail, typically long and thick, showing natural flow",
+        "long, narrow face shape with defined snout",
+        "large, expressive eyes positioned on the sides of the head",
+        "ears positioned upright or angled, showing alertness",
+        "nostrils and mouth, with slight detailing for expression",
+        "distinct coat color patterns, such as solid, speckled, or patched",
+        "overall posture, such as galloping, trotting, or standing"
+    ],
+    "house": [
+        "basic structure with boxy or symmetrical shape",
+        "roof shape, commonly gabled, flat, or slanted",
+        "windows, including shape, number, and placement",
+        "door with unique frame or details, often at the front",
+        "wall material and texture, such as brick, wood, or stucco",
+        "chimney presence and location, often on the roof",
+        "porch or entrance area, with stairs or railing details",
+        "balconies or railings, especially on multi-story houses",
+        "size and overall scale, often compared to nearby objects",
+        "surrounding environment, such as yard, fence, or driveway"
+    ],
+    "person": [
+        "facial features, including eyes, nose, and mouth placement",
+        "body proportions, like torso length and limb size",
+        "posture or pose, indicating movement or emotion",
+        "clothing style, patterns, and colors, adding personality",
+        "hair texture, length, and style, unique to individuals",
+        "eye shape and color, often expressive and detailed",
+        "mouth shape, indicating expression or emotion",
+        "hand and finger structure, often detailed if close-up",
+        "footwear, adding to overall style if visible",
+        "skin tone and shading, showing light and depth"
+    ]
+}

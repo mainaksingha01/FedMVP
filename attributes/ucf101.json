@@ -1,0 +1,406 @@
+{
+    "Apply Eye Makeup": [
+        "person applying makeup to eyes", "cosmetic brush or applicator", "close-up of eyes", "mirror reflection", "eye makeup products",
+        "hand movements near eyes", "makeup palette", "beauty products", "bright lighting", "focus on eyes"
+    ],
+    "Apply Lipstick": [
+        "person applying lipstick", "lipstick tube", "close-up of lips", "mirror reflection", "hand movements near lips", 
+        "lip makeup products", "bright lighting", "lip brush or applicator", "focus on lips", "lipstick colors"
+    ],
+    "Archery": [
+        "archer with bow and arrow", "bowstring tension", "target in background", "arrow nocked on bow", "focused posture",
+        "release of arrow", "arm movements", "archer's stance", "quiver with arrows", "aiming position"
+    ],
+    "Baby Crawling": [
+        "baby on hands and knees", "crawling motion", "floor surface", "baby's clothing", "focused expression", 
+        "movement of arms and legs", "baby's posture", "interacting with toys", "room environment", "body position"
+    ],
+    "Balance Beam": [
+        "person walking on a narrow beam", "balance posture", "beam surface", "gymnastic attire", "focused expression",
+        "arm positioning for balance", "supporting structures", "floor surface", "beam length", "movement on beam"
+    ],
+    "Band Marching": [
+        "group of people marching", "musical instruments", "uniforms", "synchronized movement", "marching posture",
+        "instruments being played", "band leader", "formation patterns", "marching rhythm", "outdoor or parade setting"
+    ],
+    "Baseball Pitch": [
+        "pitcher throwing a baseball", "pitching motion", "baseball glove", "pitcher's stance", "focus on pitcher",
+        "baseball field background", "ball release point", "uniform details", "catcher's position", "throwing arm action"
+    ],
+    "Basketball": [
+        "person dribbling or shooting a basketball", "basketball hoop", "player's uniform", "basketball ball", 
+        "court markings", "movement and posture", "defender's presence", "team colors", "basketball net", "game context"
+    ],
+    "Basketball Dunk": [
+        "player jumping to dunk", "basketball hoop", "dunking motion", "player's uniform", "ball in hand",
+        "airborne posture", "basketball court", "opponent's reaction", "basketball net", "high jump"
+    ],
+    "Bench Press": [
+        "person lifting weights on bench", "barbell", "bench press position", "weight plates", "focused expression",
+        "body posture", "gym setting", "hand grip", "spotter's presence", "exercise technique"
+    ],
+    "Biking": [
+        "person riding a bicycle", "bicycle frame", "cycling attire", "movement of legs", "bike wheels",
+        "road or path surface", "helmet", "handlebars", "bike gears", "riding posture"
+    ],
+    "Billiards": [
+        "person playing billiards or pool", "cue stick", "billiard balls", "table surface", "focused expression",
+        "shot technique", "ball positions", "cue ball", "billiard table markings", "player's stance"
+    ],
+    "Blow Dry Hair": [
+        "person using a blow dryer", "hairdryer in hand", "hair being dried", "focus on hair", "hair stylist's actions",
+        "dryer noise or airflow", "hair movement", "styling products", "haircut or style", "mirror reflection"
+    ],
+    "Blowing Candles": [
+        "person blowing out candles", "cake with candles", "candle flame", "blowing motion", "focused expression",
+        "celebratory context", "candle holder", "cake decorations", "hand positioning", "flame extinguishing"
+    ],
+    "Body Weight Squats": [
+        "person performing squats", "bodyweight exercise", "squat posture", "focused expression", "gym or home setting",
+        "leg movements", "squat depth", "body alignment", "exercise attire", "floor surface"
+    ],
+    "Bowling": [
+        "person rolling a bowling ball", "bowling ball", "bowling pins", "approach stance", "bowling lane",
+        "release motion", "focused expression", "bowling shoes", "scoreboard", "ball trajectory"
+    ],
+    "Boxing Punching Bag": [
+        "person punching a boxing bag", "punching bag", "boxing gloves", "training stance", "focused expression",
+        "bag movement", "boxer's posture", "gym environment", "punching technique", "impact marks"
+    ],
+    "Boxing Speed Bag": [
+        "person hitting a speed bag", "speed bag", "boxing gloves", "rapid punches", "boxing stance", 
+        "focused expression", "speed bag movement", "gym environment", "hand coordination", "bag rebound"
+    ],
+    "Breast Stroke": [
+        "person swimming breaststroke", "arm movements", "swimming pool", "body posture", "swimming cap", 
+        "focused expression", "leg kicks", "water splash", "swimwear", "stroke technique"
+    ],
+    "Brushing Teeth": [
+        "person brushing their teeth", "toothbrush", "toothpaste", "mirror reflection", "brushing motion",
+        "focused expression", "bathroom setting", "hand positioning", "teeth cleaning", "toothbrush bristles"
+    ],
+    "Clean And Jerk": [
+        "person lifting weights", "barbell", "clean and jerk technique", "weight plates", "gym environment",
+        "focused expression", "body posture", "lifting motion", "spotter's presence", "exercise technique"
+    ],
+    "Cliff Diving": [
+        "person diving off a cliff", "cliff edge", "diver's posture", "water below", "diving motion",
+        "focused expression", "outdoor setting", "splash effect", "cliff surface", "dive entry"
+    ],
+    "Cricket Bowling": [
+        "person bowling in cricket", "bowler's stance", "cricket ball", "pitching motion", "batsman in view",
+        "cricket field", "bowling action", "focused expression", "bowling arm movement", "player's uniform"
+    ],
+    "Cricket Shot": [
+        "person taking a cricket shot", "cricket bat", "ball contact", "cricket field", "batsman's stance",
+        "focused expression", "bat swing", "ball trajectory", "player's uniform", "fielding positions"
+    ],
+    "Cutting In Kitchen": [
+        "person chopping vegetables", "kitchen setting", "knife", "cutting board", "food preparation",
+        "focused expression", "hand movements", "ingredients", "kitchen tools", "cutting technique"
+    ],
+    "Diving": [
+        "person diving into water", "dive posture", "water surface", "focused expression", "outdoor setting",
+        "splash effect", "diver's form", "dive entry", "poolside or diving board", "body alignment"
+    ],
+    "Drumming": [
+        "person playing drums", "drum set", "drumsticks", "focused expression", "drum patterns",
+        "drum movements", "musical rhythm", "drum kit components", "hand coordination", "music environment"
+    ],
+    "Fencing": [
+        "person fencing with a sword", "fencing gear", "sword movements", "targeting stance", "focused expression",
+        "fencing mask", "footwork", "sword posture", "fencing strip", "competitive environment"
+    ],
+    "Field Hockey Penalty": [
+        "person taking a field hockey penalty shot", "hockey stick", "ball or puck", "focused stance",
+        "goalie in view", "penalty area", "hockey uniform", "shot motion", "goal area", "ball trajectory"
+    ],
+    "Floor Gymnastics": [
+        "person performing floor gymnastics", "gymnast's movements", "gymnastics mat", "focused expression",
+        "gymnastic attire", "performing routine", "body posture", "gymnastic elements", "floor exercises", "gym environment"
+    ],
+    "Frisbee Catch": [
+        "person catching a frisbee", "frisbee in air", "catching motion", "outdoor setting", "focused expression",
+        "player's stance", "frisbee color", "thrower in view", "hand coordination", "frisbee flight path"
+    ],
+    "Front Crawl": [
+        "person swimming front crawl", "arm movements", "swimming pool", "body posture", "swimming cap",
+        "focused expression", "leg kicks", "water splash", "swimwear", "stroke technique"
+    ],
+    "Golf Swing": [
+        "person performing a golf swing", "golf club", "golf ball", "swing motion", "focused expression",
+        "golf course", "player's stance", "golf attire", "ball trajectory", "club movement"
+    ],
+    "Haircut": [
+        "person cutting hair", "haircut tools (scissors, clippers)", "hair being trimmed", "stylist's movements", 
+        "mirror reflection", "focused expression", "hair salon environment", "stylist's attire", "hair sections", "cutting technique"
+    ],
+    "Hammering": [
+        "person using a hammer", "hammer in motion", "nail or surface being hammered", "focused expression",
+        "hammering posture", "tool details", "workbench or surface", "hammer impact", "body stance", "work environment"
+    ],
+    "Hammer Throw": [
+        "athlete throwing a hammer", "hammer in flight", "athlete's stance", "throwing motion", "focused expression",
+        "field or stadium background", "hammer release", "athlete's posture", "rotation technique", "throwing area"
+    ],
+    "Handstand Pushups": [
+        "person performing handstand push-ups", "handstand position", "body alignment", "focused expression",
+        "exercise technique", "gym or home setting", "hand and shoulder strength", "body posture", "wall support", "push-up movement"
+    ],
+    "Handstand Walking": [
+        "person walking in handstand", "handstand position", "body balance", "walking motion", "focused expression",
+        "gymnast's posture", "supporting structures", "floor surface", "hand movements", "handstand technique"
+    ],
+    "Head Massage": [
+        "person receiving a head massage", "hands massaging scalp", "focused expression", "massage technique",
+        "massage environment", "hair being moved", "massage oil or lotion", "person's posture", "massage tools", "relaxation setting"
+    ],
+    "High Jump": [
+        "athlete performing a high jump", "jumping motion", "bar height", "athlete's posture", "focused expression",
+        "athletic attire", "jumping technique", "landing area", "high jump apparatus", "takeoff and clearance"
+    ],
+    "Horse Race": [
+        "horses racing", "jockeys riding horses", "race track", "galloping motion", "focused expression",
+        "horse's posture", "jockey's uniform", "race environment", "horse's mane", "start and finish lines"
+    ],
+    "Horse Riding": [
+        "person riding a horse", "horse's movement", "rider's posture", "riding equipment (saddle, bridle)", "focused expression",
+        "riding technique", "horse's gait", "riding arena or trail", "rider's attire", "horse's harness"
+    ],
+    "Hula Hoop": [
+        "person spinning a hula hoop", "hoop in motion", "body movement", "focused expression", "hula hoop technique",
+        "gym or outdoor setting", "hoop color and design", "waist and arm movements", "body posture", "exercise attire"
+    ],
+    "Ice Dancing": [
+        "pairs skating on ice", "dance movements", "ice rink", "dancers' costumes", "synchronized routine",
+        "focused expressions", "ice surface", "dance technique", "skating patterns", "partner interactions"
+    ],
+    "Javelin Throw": [
+        "athlete throwing a javelin", "javelin in flight", "athlete's stance", "throwing motion", "focused expression",
+        "field or stadium background", "javelin release", "athlete's posture", "rotation technique", "throwing area"
+    ],
+    "Juggling Balls": [
+        "person juggling balls", "balls in air", "juggling technique", "focused expression", "hand movements",
+        "ball trajectory", "juggling environment", "juggler's posture", "ball colors", "skill level"
+    ],
+    "Jumping Jack": [
+        "person performing jumping jacks", "arm and leg movements", "exercise attire", "jumping motion", "focused expression",
+        "gym or outdoor setting", "body posture", "synchronized movements", "exercise technique", "floor surface"
+    ],
+    "Jump Rope": [
+        "person jumping rope", "rope in motion", "jumping technique", "focused expression", "exercise attire",
+        "rope handle details", "jumping rhythm", "body posture", "jumping area", "rope length and color"
+    ],
+    "Kayaking": [
+        "person kayaking", "kayak in water", "paddling motion", "focused expression", "water environment",
+        "kayak details", "paddle movement", "body posture", "river or lake setting", "water splash"
+    ],
+    "Knitting": [
+        "person knitting", "knitting needles", "yarn or thread", "knitting technique", "focused expression",
+        "knitting project", "hand movements", "knitting environment", "finished product", "needle and yarn details"
+    ],
+    "Long Jump": [
+        "athlete performing a long jump", "jumping motion", "takeoff and landing", "athlete's posture", "focused expression",
+        "long jump pit", "athletic attire", "jumping technique", "run-up area", "landing distance"
+    ],
+    "Lunges": [
+        "person performing lunges", "lunge position", "exercise technique", "focused expression", "body posture",
+        "gym or home setting", "leg movements", "lunge depth", "exercise attire", "floor surface"
+    ],
+    "Military Parade": [
+        "group of soldiers marching", "military uniforms", "parade formation", "synchronized movements", "focused expressions",
+        "marching rhythm", "military equipment", "flag or banner", "parade ground", "military protocol"
+    ],
+    "Mixing": [
+        "person mixing ingredients", "mixing bowl", "utensils or mixer", "focused expression", "kitchen environment",
+        "ingredient details", "mixing motion", "mixing technique", "apron or gloves", "food preparation"
+    ],
+    "Mopping Floor": [
+        "person mopping the floor", "mop and bucket", "floor cleaning motion", "focused expression", "cleaning technique",
+        "mop details", "floor surface", "cleaning environment", "hand movements", "cleaning agent"
+    ],
+    "Nunchucks": [
+        "person wielding nunchucks", "nunchucks in motion", "martial arts attire", "focused expression", "nunchuck technique",
+        "hand movements", "nunchuck details", "training environment", "martial arts stance", "skill level"
+    ],
+    "Parallel Bars": [
+        "person performing exercises on parallel bars", "parallel bars setup", "exercise technique", "focused expression",
+        "body posture", "gym environment", "bar grips", "movement on bars", "parallel bars details", "exercise routine"
+    ],
+    "Pizza Tossing": [
+        "person tossing pizza dough", "dough in air", "tossing technique", "focused expression", "pizza preparation",
+        "pizza dough details", "chef's movements", "kitchen environment", "dough handling", "pizza size and shape"
+    ],
+    "Playing Cello": [
+        "person playing a cello", "cello instrument", "bowing technique", "focused expression", "playing posture",
+        "cello details", "musical technique", "cellist's attire", "performance setting", "cello strings"
+    ],
+    "Playing Daf": [
+        "person playing a daf (drum)", "daf instrument", "drumming technique", "focused expression", "hand movements",
+        "daf details", "playing posture", "musical setting", "drum rhythm", "performance environment"
+    ],
+    "Playing Dhol": [
+        "person playing a dhol (drum)", "dhol instrument", "drumming technique", "focused expression", "hand movements",
+        "dhol details", "playing posture", "musical setting", "drum rhythm", "performance environment"
+    ],
+    "Playing Flute": [
+        "person playing a flute", "flute instrument", "blowing technique", "focused expression", "playing posture",
+        "flute details", "musical technique", "performer's attire", "performance setting", "finger movements"
+    ],
+    "Playing Guitar": [
+        "person playing a guitar", "guitar instrument", "strumming or plucking", "focused expression", "playing posture",
+        "guitar details", "musical technique", "performer's attire", "performance setting", "guitar chords"
+    ],
+    "Playing Piano": [
+        "person playing a piano", "piano keys", "hand movements", "focused expression", "playing posture",
+        "piano details", "musical technique", "performer's attire", "performance setting", "keyboard layout"
+    ],
+    "Playing Sitar": [
+        "plucked strings", "fretboard with frets", "curved body", "long neck", "decorative headstock",
+        "player's posture", "right-hand plucking", "left-hand fingering", "sitar's resonance box", "traditional attire"
+    ],
+    "Playing Tabla": [
+        "two drums", "hand positioning", "drum heads with different sizes", "finger taps", "traditional posture",
+        "wooden or metal stands", "complex rhythms", "different playing areas", "drum surface patterns", "cultural attire"
+    ],
+    "Playing Violin": [
+        "bowed strings", "f-holes on body", "curved body", "long neck", "chin rest",
+        "player's posture", "finger positions on neck", "bowing technique", "string tension", "violin's scroll"
+    ],
+    "Pole Vault": [
+        "pole for vaulting", "athlete's run-up", "vaulting motion", "clearance over bar", "landing area",
+        "pole's angle", "athlete's form in the air", "bar height", "take-off mark", "vaulting technique"
+    ],
+    "Pommel Horse": [
+        "pommel horse apparatus", "gymnast's hands on pommels", "body support on apparatus", "spinning motions",
+        "horse's surface texture", "gymnast's posture", "pommel horse height", "legs positioning", "grip strength", "balance technique"
+    ],
+    "Pull Ups": [
+        "bar for pulling up", "athlete's grip", "body position", "arm movement", "chin clearance over bar",
+        "muscle engagement", "repetition of motion", "hanging posture", "core stability", "elbow flexion"
+    ],
+    "Punch": [
+        "fist impact", "body stance", "arm extension", "target focus", "hand wrap or glove",
+        "muscle contraction", "punching motion", "strike accuracy", "torso rotation", "opponent's reaction"
+    ],
+    "Push Ups": [
+        "body in plank position", "hand placement", "elbow bending", "body alignment", "floor contact",
+        "muscle engagement", "head position", "foot placement", "repetition of motion", "core stability"
+    ],
+    "Rafting": [
+        "inflatable raft", "paddles", "rapid water", "safety gear", "team coordination",
+        "water splashes", "raft's motion", "paddling technique", "wearing life jackets", "river rapids"
+    ],
+    "Rock Climbing Indoor": [
+        "climbing wall", "handholds and footholds", "climbing harness", "athlete's grip", "body positioning",
+        "rock features", "climbing technique", "safety ropes", "athlete's attire", "route difficulty"
+    ],
+    "Rope Climbing": [
+        "rope for climbing", "athlete's grip on rope", "body position", "foot placement", "climbing technique",
+        "muscle engagement", "rope texture", "climbing harness", "height achieved", "climbing speed"
+    ],
+    "Rowing": [
+        "rowing boat", "oars", "water splashes", "rower's posture", "synchronized movements",
+        "boat's motion", "oar blade entry", "rower's grip", "rowing rhythm", "water surface"
+    ],
+    "Salsa Spin": [
+        "dancer's twirl", "spinning motion", "dance posture", "costume movement", "footwork",
+        "body alignment", "partner's coordination", "spinning technique", "dance floor", "musical rhythm"
+    ],
+    "Shaving Beard": [
+        "shaving razor", "foam or gel", "facial hair", "shaving technique", "face lathering",
+        "mirror reflection", "hand movements", "razor's motion", "shaving area", "aftershave application"
+    ],
+    "Shotput": [
+        "shotput ball", "athlete's stance", "throwing motion", "shotput release", "arm extension",
+        "body posture", "throwing technique", "shotput trajectory", "athlete's grip", "landing area"
+    ],
+    "Skate Boarding": [
+        "skateboard", "skater's stance", "tricks or jumps", "grinding rail", "skateboard's deck",
+        "foot placement", "board's motion", "skater's attire", "trick execution", "skatepark features"
+    ],
+    "Skiing": [
+        "skis", "ski poles", "ski suit", "snow surface", "athlete's posture",
+        "skiing technique", "skiing speed", "snow trail", "ski equipment", "turning motions"
+    ],
+    "Skijet": [
+        "jet ski", "rider's posture", "water splashes", "handlebars", "jet propulsion",
+        "riding technique", "watercraft maneuvering", "life jacket", "sea or lake environment", "speed and stability"
+    ],
+    "Sky Diving": [
+        "parachute", "diver's position", "freefall motion", "altitude", "skydiving gear",
+        "body posture in air", "open parachute", "skydiving suit", "tandem skydiving", "aerial views"
+    ],
+    "Soccer Juggling": [
+        "soccer ball", "foot control", "juggling technique", "athlete's posture", "ball handling",
+        "repetitive motion", "footwork", "body balance", "soccer attire", "ball trajectory"
+    ],
+    "Soccer Penalty": [
+        "soccer ball", "goalkeeper's stance", "penalty kick motion", "goal area", "striker's approach",
+        "ball trajectory", "goalpost", "player's posture", "referee's position", "goalkeeper's dive"
+    ],
+    "Still Rings": [
+        "gymnast's hold", "rings apparatus", "body posture", "muscle engagement", "grip on rings",
+        "stillness in air", "rings' height", "gymnast's attire", "body alignment", "performance routine"
+    ],
+    "Sumo Wrestling": [
+        "wrestling ring", "wrestlers' stance", "sumo attire", "grappling techniques", "body size",
+        "wrestling moves", "ring's surface", "competitive posture", "wrestlers' reactions", "match progression"
+    ],
+    "Surfing": [
+        "surfboard", "rider's stance", "wave riding", "ocean waves", "surfboard maneuvering",
+        "body posture", "wet suit", "surfing technique", "wave size", "surfing environment"
+    ],
+    "Swing": [
+        "swing set", "swing motion", "person on swing", "swing height", "swing's path",
+        "body posture", "swing's ropes", "playground environment", "swinging technique", "motion dynamics"
+    ],
+    "Table Tennis Shot": [
+        "table tennis paddle", "table tennis ball", "player's stance", "shot technique", "ball trajectory",
+        "table surface", "paddle grip", "player's movement", "opponent's position", "game intensity"
+    ],
+    "Tai Chi": [
+        "slow, controlled movements", "Tai Chi form", "player's posture", "flowing motion", "hand positions",
+        "Tai Chi attire", "balance", "graceful execution", "environment", "foot placement"
+    ],
+    "Tennis Swing": [
+        "tennis racket", "tennis ball", "swing motion", "player's stance", "racket position",
+        "ball contact", "tennis court", "footwork", "player's grip", "follow-through"
+    ],
+    "Throw Discus": [
+        "discus", "athlete's stance", "throwing motion", "discus grip", "release technique",
+        "body posture", "throwing circle", "discus trajectory", "athlete's form", "landing area"
+    ],
+    "Trampoline Jumping": [
+        "trampoline", "jumping motion", "athlete's posture", "airborne position", "trampoline surface",
+        "jump height", "athlete's form", "landing technique", "rebound action", "trampoline's springiness"
+    ],
+    "Typing": [
+        "keyboard", "hands typing", "fingers on keys", "typing posture", "computer screen",
+        "keypress action", "keyboard layout", "typing speed", "user's focus", "typing technique"
+    ],
+    "Uneven Bars": [
+        "uneven bars apparatus", "gymnast's hold", "swinging motion", "body posture", "bar heights",
+        "muscle engagement", "grip on bars", "gymnast's attire", "routine execution", "performance technique"
+    ],
+    "Volleyball Spiking": [
+        "volleyball", "spiking motion", "player's jump", "spike technique", "volleyball court",
+        "player's stance", "ball trajectory", "spike accuracy", "team coordination", "net height"
+    ],
+    "Walking With Dog": [
+        "dog on a leash", "person's walking posture", "dog's size and breed", "leash length", "person's footwear",
+        "dog's movement", "surrounding environment (e.g., park, sidewalk)", "weather conditions", "person's clothing", "interaction between person and dog"
+    ],
+    "Wall Pushups": [
+        "wall or vertical surface", "person's hand placement on wall", "body alignment", "arm movement", "feet position",
+        "elbow bending", "body angle relative to the wall", "muscle engagement", "repetition of motion", "person's posture"
+    ],
+    "Writing On Board": [
+        "writing board or whiteboard", "writing implement (e.g., marker, chalk)", "person's hand position", "text or drawings on board", "body stance",
+        "writing motion", "board's surface", "person's posture", "writing speed", "handwriting style"
+    ],
+    "Yo Yo": [
+        "yo-yo toy", "person's hand holding yo-yo", "yo-yo motion (e.g., up and down)", "string length", "yo-yo's design",
+        "person's arm movement", "yo-yo's spin", "skill level (e.g., tricks)", "yo-yo's trajectory", "hand control"
+    ]
+}

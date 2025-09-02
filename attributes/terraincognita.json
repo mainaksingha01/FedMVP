@@ -1,0 +1,122 @@
+{
+    "bird": [
+        "small, streamlined body with feathered wings",
+        "distinctive beak shape varying by species",
+        "prominent eyes on sides of head",
+        "feather pattern and coloration for identification",
+        "two thin legs often positioned for perching",
+        "long, pointed or fan-shaped tail feathers",
+        "wing shape adapted for flight or gliding",
+        "lightweight body adapted for flight",
+        "surrounding branches or sky as habitat context",
+        "small claws or talons visible on feet"
+    ],
+    "bobcat": [
+        "medium-sized body with muscular build",
+        "short, tufted tail with a black tip",
+        "light brown or grayish fur with black spots",
+        "prominent facial ruff around cheeks",
+        "short, pointed ears with black tips",
+        "piercing yellow or green eyes",
+        "strong, agile legs for jumping",
+        "sharp claws often retracted",
+        "curious, alert facial expression",
+        "surrounding forest or grassy terrain"
+    ],
+    "cat": [
+        "small to medium-sized body with slender frame",
+        "round face with large, alert eyes",
+        "smooth, short or long fur depending on breed",
+        "flexible, agile body posture",
+        "long tail for balance and expression",
+        "triangular, upright ears",
+        "sharp, retractable claws on paws",
+        "whiskers extending from snout",
+        "curious or cautious expression",
+        "often seen in urban or indoor setting"
+    ],
+    "coyote": [
+        "medium-sized body with lean, muscular build",
+        "narrow face with pointed snout",
+        "short to medium-length fur, often grayish-brown",
+        "large, upright ears positioned forward",
+        "sharp, alert yellow or amber eyes",
+        "long legs adapted for running",
+        "thick, bushy tail usually carried low",
+        "strong jaw with visible canines",
+        "keen, cautious expression",
+        "surrounding open plains or forest edges"
+    ],
+    "dog": [
+        "varying body sizes and shapes by breed",
+        "distinctive snout length and ear shape",
+        "smooth, short or long fur depending on breed",
+        "tail often expressive of emotions",
+        "round, alert eyes with expressive face",
+        "visible collar or harness sometimes present",
+        "muscular limbs adapted for running",
+        "prominent nose often sniffing surroundings",
+        "friendly, curious expression",
+        "often accompanied by humans or in domestic setting"
+    ],
+    "empty": [
+        "no animals or subjects in frame",
+        "natural background such as vegetation or sky",
+        "distinct lack of movement or wildlife",
+        "possibly shadows or natural lighting effects",
+        "simple, uncluttered scene with no subjects",
+        "visible terrain features like rocks or trees",
+        "natural textures like grass, soil, or leaves",
+        "no footprints or evidence of recent activity",
+        "soft or diffused lighting common",
+        "scene often intended as control or environmental shot"
+    ],
+    "opossum": [
+        "small to medium body with white face",
+        "pointed snout with small, dark nose",
+        "grayish or brownish fur with coarse texture",
+        "long, hairless tail adapted for climbing",
+        "small, rounded ears with pinkish skin",
+        "sharp claws visible on paws",
+        "large, dark eyes with alert expression",
+        "prominent whiskers extending from snout",
+        "slow, cautious movements",
+        "often seen near wooded areas or trash cans"
+    ],
+    "rabbit": [
+        "small, compact body with soft fur",
+        "long ears often positioned upright",
+        "short, fluffy tail usually white",
+        "large, round eyes on sides of head",
+        "hind legs longer than front legs",
+        "small nose with constant twitching",
+        "smooth, soft fur in shades of brown or gray",
+        "cautious, alert expression",
+        "often seen in grass or field settings",
+        "distinctive hopping or bounding movement"
+    ],
+    "raccoon": [
+        "medium-sized body with rounded shape",
+        "distinct black 'mask' pattern around eyes",
+        "grayish fur with coarse texture",
+        "ringed tail with alternating dark and light bands",
+        "small, pointed ears often upright",
+        "large, expressive dark eyes",
+        "dexterous front paws for grasping",
+        "curious, mischievous expression",
+        "often seen near water sources or trash cans",
+        "surrounding woodland or suburban setting"
+    ],
+    "squirrel": [
+        "small, slender body with bushy tail",
+        "prominent, large eyes for alertness",
+        "smooth, dense fur often gray or brown",
+        "sharp claws adapted for climbing",
+        "rounded ears positioned forward",
+        "small, pointed nose with whiskers",
+        "active, agile posture",
+        "tail often curled over body",
+        "often seen in trees or on ground near trees",
+        "curious, quick movements"
+    ]
+}

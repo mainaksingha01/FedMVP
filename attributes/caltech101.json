@@ -1,0 +1,483 @@
+{
+    "face": [
+        "eyes", "nose", "mouth", "eyebrows", "cheeks", 
+        "forehead", "chin", "ears", "symmetry", "skin texture"
+    ],
+    "leopard": [
+        "spotted fur", "muscular body", "long tail", "short fur", 
+        "powerful limbs", "sharp claws", "yellow or golden coat", 
+        "stealthy posture", "round ears", "sharp teeth"
+    ],
+    "motorbike": [
+        "two wheels", "handlebars", "exposed engine", "fuel tank", "headlight",
+        "seat", "side mirrors", "exhaust pipes", "spoke wheels", "license plate"
+    ],
+    "accordion": [
+        "pleated bellows", "keyboard", "buttons", "hand straps", "chrome accents", 
+        "wooden body", "color contrast between bellows and body", 
+        "metal reeds", "expandable structure", "decorative inlays"
+    ],
+    "airplane": [
+        "wingspan", "cockpit windows", "jet engines", "fuselage", "tail fin", 
+        "landing gear", "winglets", "propellers if present", 
+        "airline logo or markings", "flaps on the wings"
+    ],
+    "anchor": [
+        "metallic surface", "flukes curved arms", "shank vertical shaft", 
+        "stock crosspiece at top", "ring for attaching rope", 
+        "thick iron chain", "oxidized or rusty texture", 
+        "sharp tips on flukes", "symmetrical arms", "heavy, robust appearance"
+    ],
+    "ant": [
+        "segmented body", "six legs", "antennae", "compound eyes", "mandibles", 
+        "thorax", "exoskeleton", "tiny size", "head shape", 
+        "jointed limbs"
+    ],
+    "barrel": [
+        "cylindrical shape", "wooden slats", "metal hoops", "concave sides", 
+        "staves", "bung hole", "aged wood texture", 
+        "grain pattern", "rounded ends", "vertical alignment of slats"
+    ],
+    "bass": [
+        "elongated body", "tail fin", "dorsal fin", "scales", 
+        "gill covers", "mouth shape", "lateral line", 
+        "greenish or dark coloration", "large eyes", "forked tail"
+    ],
+    "beaver": [
+        "flat tail", "brown fur", "webbed feet", "large incisors", 
+        "round body", "dense fur", "broad head", 
+        "small ears", "whiskers", "strong forelimbs"
+    ],
+    "binocular": [
+        "twin barrel design", "eyepieces", "objective lenses", 
+        "focus knob", "rubber grip", "strap loops", 
+        "hinge for adjusting width", "lens caps", 
+        "matte or glossy finish", "prism system"
+    ],
+    "bonsai": [
+        "miniature tree size", "gnarled trunk", "shallow pot", 
+        "pruned leaves", "exposed roots", "moss-covered soil", 
+        "dense foliage", "artificially styled branches", 
+        "aged bark", "symmetry and balance in design"
+    ],
+    "brain": [
+        "gyri ridges", "sulci grooves", "folded surface", 
+        "left and right hemispheres", "grayish-pink color", 
+        "cerebellum at the back", "brainstem", "complex folds", 
+        "smooth central fissure", "vascular texture on the surface"
+    ],
+    "brontosaurus": [
+        "long neck", "massive body", "four legs", "long tail", "small head", 
+        "herbivore teeth", "large size", "scaly skin", 
+        "rounded feet", "straight legs"
+    ],
+    "buddha": [
+        "calm facial expression", "seated posture", "elongated earlobes", 
+        "crossed legs", "hand gestures", "decorative robe", 
+        "lotus pedestal", "golden or bronze color", "aura or halo", 
+        "serene and meditative appearance"
+    ],
+    "butterfly": [
+        "colorful wings", "symmetrical wing patterns", "slender body", 
+        "two antennae", "six legs", "compound eyes", 
+        "fragile wing veins", "proboscis for feeding", 
+        "distinctive wing shapes", "spots or markings on wings"
+    ],
+    "camera": [
+        "lens on front", "viewfinder", "shutter button", "body casing", 
+        "LCD screen", "flash", "mode dial", 
+        "grip for holding", "lens mount", "zoom or focus rings"
+    ],
+    "cannon": [
+        "long barrel", "wheels for mobility", "metal surface", 
+        "cannonball chamber", "firing mechanism", "supports or trunnions", 
+        "wooden carriage", "circular bore", "oxidized or aged metal", 
+        "thick barrel walls"
+    ],
+    "car side": [
+        "door panel", "window outline", "side mirror", 
+        "wheel and tire", "door handle", "paint finish", 
+        "trim details", "fuel cap", "side marker light", "side skirts"
+    ],
+    "ceiling fan": [
+        "rotating blades", "motor housing", "light fixtures", 
+        "pull chains", "fan blades tilt", "mounting bracket", 
+        "metal or wooden finish", "center hub", "number of blades", 
+        "airflow direction"
+    ],
+    "cellphone": [
+        "touchscreen", "home button or none", "camera lens", 
+        "metal or plastic casing", "charging port", "volume buttons", 
+        "speaker grille", "microphone hole", "rounded corners", 
+        "antenna lines"
+    ],
+    "chair": [
+        "four legs", "seat", "backrest", "armrests", "wooden or metal frame", 
+        "upholstered cushion", "straight or curved back", 
+        "legs stability", "seat depth", "surface texture"
+    ],
+    "chandelier": [
+        "multiple arms", "crystal or glass pendants", "light bulbs", 
+        "metal frame", "central column", "ornate details", 
+        "chain for hanging", "reflective surfaces", "intricate design", 
+        "gold or silver finish"
+    ],
+    "cougar body": [
+        "sleek body", "muscular limbs", "short fur", "long tail", 
+        "rounded ears", "sharp claws", "powerful hind legs", 
+        "tan or beige coat", "whiskers", "lean physique"
+    ],
+    "cougar face": [
+        "round face", "sharp eyes", "whiskers", "short fur", 
+        "rounded ears", "wide nose", "black-tipped ears", 
+        "strong jawline", "intense expression", "white muzzle"
+    ],
+    "crab": [
+        "hard exoskeleton", "two claws", "eight legs", 
+        "wide, flat body", "compound eyes on stalks", "sideways walking", 
+        "textured carapace", "small pincers on legs", 
+        "variety of shell colors", "jointed limbs"
+    ],
+    "crayfish": [
+        "segmented body", "two large pincers", "hard shell", 
+        "antennae", "tail fan", "jointed limbs", 
+        "carapace texture", "multiple pairs of legs", "compound eyes", 
+        "brownish or greenish color"
+    ],
+    "crocodile": [
+        "elongated snout", "scaly skin", "sharp teeth", "long tail", 
+        "webbed feet", "powerful jaw", "armor-like back scales", 
+        "yellow or greenish eyes", "nostrils at snout tip", "massive body size"
+    ],
+    "crocodile head": [
+        "broad, flat snout", "sharp teeth visible", "scaly texture", 
+        "nostrils on top", "wide jaw", "greenish or brownish color", 
+        "armored skin", "small ear holes", "deep-set eyes", "rough ridges on snout"
+    ],
+    "cup": [
+        "cylindrical shape", "handle on the side", "smooth surface", 
+        "ceramic or plastic material", "open top", "round base", 
+        "various colors or patterns", "lip for drinking", "glossy or matte finish", 
+        "shiny rim"
+    ],
+    "dalmatian": [
+        "white coat", "black spots", "long legs", "lean body", 
+        "short fur", "floppy ears", "brown eyes", 
+        "long tail", "spotted nose", "muscular build"
+    ],
+    "dollar bill": [
+        "rectangular shape", "greenish color", "presidential portrait", 
+        "intricate border design", "denomination number", "serial number", 
+        "seal of the treasury", "small text and symbols", 
+        "printed signatures", "microprinting for security"
+    ],
+    "dolphin": [
+        "streamlined body", "curved dorsal fin", "smooth skin", 
+        "beak-like snout", "tail flukes", "paddle-like fins", 
+        "gray or bluish color", "blowhole on top", "playful expression", 
+        "aquatic agility"
+    ],
+    "dragonfly": [
+        "transparent wings", "elongated body", "compound eyes", 
+        "slender abdomen", "two pairs of wings", "fast flight", 
+        "iridescent color", "fine wing veins", "jointed legs", "large eyes"
+    ],
+    "electric guitar": [
+        "solid body", "six strings", "pickup selectors", 
+        "tuning pegs", "frets on neck", "amplifier jack", 
+        "bridge for strings", "volume and tone knobs", 
+        "distinctive body shape", "glossy finish"
+    ],
+    "elephant": [
+        "large ears", "long trunk", "tusks", "massive body", 
+        "gray wrinkled skin", "thick legs", "wide feet", 
+        "small tail", "large head", "slow movement"
+    ],
+    "emu": [
+        "long neck", "small wings", "long legs", "three-toed feet", 
+        "soft feathers", "large body", "short beak", 
+        "brownish or grayish color", "sharp claws", "keen eyesight"
+    ],
+    "euphonium": [
+        "curved metal tubes", "large bell", "valve buttons", 
+        "shiny brass surface", "mouthpiece", "tuning slides", 
+        "circular body", "finger rests", "engraved details", "smooth curves"
+    ],
+    "ewer": [
+        "tall spout", "handle on the side", "curved body", 
+        "decorative designs", "long neck", "wide base", 
+        "pouring lip", "ornate surface", "smooth finish", 
+        "metallic or ceramic material"
+    ],
+    "ferry": [
+        "large hull", "multiple decks", "ferry ramp", "lifeboats", 
+        "windows along sides", "smokestack", "open space for vehicles", 
+        "ferry name", "railings", "waterline"
+    ],
+    "flamingo": [
+        "long neck", "pink feathers", "thin legs", "curved beak", 
+        "black-tipped beak", "tall, slim body", "webbed feet", 
+        "graceful posture", "small head", "bright pink color"
+    ],
+    "flamingo head": [
+        "curved pink beak", "small eyes", "long neck", "feathered head", 
+        "black tip on beak", "slender neck", "pinkish color", 
+        "sharp, pointed beak", "keen eyes", "elegant shape"
+    ],
+    "garfield": [
+        "orange fur", "black stripes", "round body", "large eyes", 
+        "short legs", "grumpy expression", "small ears", 
+        "fat belly", "curled tail", "paws with claws"
+    ],
+    "gerenuk": [
+        "long neck", "slender legs", "small head", "large eyes", 
+        "short fur", "delicate appearance", "curved horns", 
+        "reddish-brown coat", "long ears", "graceful stance"
+    ],
+    "gramophone": [
+        "large horn speaker", "turntable", "crank handle", "needle arm", 
+        "wooden base", "vinyl record", "brass or metallic horn", 
+        "decorative details", "rotating platter", "antique design"
+    ],
+    "grand piano": [
+        "large, glossy body", "black and white keys", "curved wooden casing", 
+        "pedals at the base", "lid for sound projection", "golden strings inside", 
+        "legs with wheels", "hinged cover", "piano bench", "ornate craftsmanship"
+    ],
+    "hawksbill": [
+        "oval shell", "patterned scales", "hard carapace", 
+        "sharp beak", "webbed flippers", "brown and yellow shell", 
+        "serrated edges on shell", "small head", "dark eyes", "aquatic movement"
+    ],
+    "headphone": [
+        "ear cups", "headband", "cushioned pads", "audio cable", 
+        "volume control", "wireless or wired", "adjustable headband", 
+        "logo on ear cups", "sleek design", "noise-canceling feature"
+    ],
+    "hedgehog": [
+        "spiny quills", "round body", "small nose", "short legs", 
+        "beady eyes", "brownish color", "soft underbelly", 
+        "sharp claws", "curled posture", "compact size"
+    ],
+    "helicopter": [
+        "rotor blades", "cockpit windows", "landing skids", 
+        "tail rotor", "fuselage", "doors on the side", 
+        "turbine engine", "pilot seats", "searchlight", "antenna on top"
+    ],
+    "ibis": [
+        "long, curved beak", "thin legs", "slender neck", 
+        "white or gray feathers", "black-tipped wings", "graceful posture", 
+        "broad wingspan", "long toes", "alert eyes", "elegant stance"
+    ],
+    "inline skate": [
+        "four wheels in a line", "hard boot", "ankle strap", 
+        "rubber brakes", "metal frame", "lace-up closure", 
+        "toe guard", "cushioned liner", "bearing wheels", "smooth glide"
+    ],
+    "joshua tree": [
+        "spiky leaves", "thick trunk", "branches in an irregular shape", 
+        "dry desert surroundings", "greenish leaves", "woody texture", 
+        "short, stocky build", "clustered branches", "desert-adapted structure", 
+        "robust root system"
+    ],
+    "kangaroo": [
+        "strong hind legs", "long tail", "large ears", 
+        "pouch for carrying young", "brown fur", "muscular body", 
+        "large feet", "short arms", "alert expression", "bouncing movement"
+    ],
+    "ketch": [
+        "two masts", "sail rigging", "wooden hull", "broad deck", 
+        "white sails", "anchor at bow", "lifeboats attached", 
+        "navigation lights", "flags on mast", "rudder for steering"
+    ],
+    "lamp": [
+        "light bulb", "shade covering bulb", "lamp stand", "power cord", 
+        "on and off switch", "metal or ceramic base", "decorative design", 
+        "glowing light", "lamp finial", "adjustable neck"
+    ],
+    "laptop": [
+        "flat screen", "keyboard layout", "hinged design", "touchpad", 
+        "USB ports", "metal or plastic casing", "speaker grille", 
+        "ventilation slots", "webcam", "foldable design"
+    ],
+    "llama": [
+        "long neck", "fluffy coat", "slender legs", "curved ears", 
+        "large eyes", "soft fur", "tall stature", 
+        "graceful stance", "gentle expression", "rounded nose"
+    ],
+    "lobster": [
+        "hard shell", "large claws", "segmented body", 
+        "antennae", "tail fan", "jointed legs", 
+        "reddish or brownish color", "sharp pincers", "beady eyes", "textured carapace"
+    ],
+    "lotus": [
+        "large, round petals", "pink or white color", "floating leaves", 
+        "central pod", "wide, flat petals", "delicate veins", 
+        "yellow or golden stamens", "smooth flower texture", "calm water surface", "symmetry"
+    ],
+    "mandolin": [
+        "teardrop-shaped body", "four pairs of strings", "arched top", 
+        "sound holes", "tuning pegs", "curved back", 
+        "wooden body", "pickguard", "decorative inlays", "fretted neck"
+    ],
+    "mayfly": [
+        "delicate wings", "slender body", "short antennae", 
+        "long tail filaments", "large eyes", "transparent wings", 
+        "fine wing veins", "fragile limbs", "small size", "aquatic nymph stage"
+    ],
+    "menorah": [
+        "seven or nine branches", "candle holders at top", "tall, thin structure", 
+        "ornate base", "metal surface", "symmetrical design", 
+        "decorative engravings", "golden or silver finish", "flames at the top", "circular or straight branches"
+    ],
+    "metronome": [
+        "swinging pendulum", "rectangular body", "dial for adjusting tempo", 
+        "metal weight on pendulum", "wooden or plastic casing", "ticking sound", 
+        "needle for marking time", "glossy finish", "metal arm", "stable base"
+    ],
+    "minaret": [
+        "tall, cylindrical structure", "balcony near the top", "decorative arches", 
+        "pointed spire", "ornate patterns", "windows along the shaft", 
+        "stone or brick construction", "Islamic architectural style", "call to prayer", "slender silhouette"
+    ],
+    "nautilus": [
+        "spiral shell", "striped pattern", "chambered structure", "curved shell", "siphuncle",
+        "tentacles", "smooth surface", "shelled body", "sea creature", "color gradient"
+    ],
+    "octopus": [
+        "eight arms", "suckers", "soft body", "beak", "large eyes",
+        "color-changing skin", "webbed arms", "mantle", "retractable arms", "camouflage"
+    ],
+    "okapi": [
+        "striped legs", "long neck", "large ears", "dark brown fur", "white and black stripes",
+        "short tail", "slender body", "forest habitat", "large eyes", "giraffe-like"
+    ],
+    "pagoda": [
+        "tiered structure", "upward-sloping roof", "ornate details", "eaves", "symmetrical design",
+        "multiple levels", "decorative ornaments", "vertical lines", "traditional architecture", "often in gardens"
+    ],
+    "panda": [
+        "black and white fur", "round face", "large ears", "black patches around eyes", "stubby legs",
+        "paws with claws", "round body", "gentle expression", "bamboo diet", "black nose"
+    ],
+    "pigeon": [
+        "grey feathers", "short legs", "small head", "feathered neck", "beak",
+        "wing patterns", "iridescent sheen", "round body", "tail feathers", "city bird"
+    ],
+    "pizza": [
+        "round shape", "cheese topping", "tomato sauce", "varied toppings", "crust",
+        "sliced into wedges", "baked appearance", "colorful ingredients", "greasy surface", "oven-baked"
+    ],
+    "platypus": [
+        "duck-like bill", "webbed feet", "furry body", "beaver-like tail", "mammal",
+        "venomous spurs", "small eyes", "aquatic habitat", "unique appearance", "egg-laying"
+    ],
+    "pyramid": [
+        "triangular faces", "base square", "four sides", "sloping sides", "stone construction",
+        "ancient architecture", "large base", "pointed top", "symmetrical shape", "historical significance"
+    ],
+    "revolver": [
+        "cylindrical chamber", "trigger", "barrel", "hammer", "grip",
+        "six chambers", "metal construction", "rotating cylinder", "trigger guard", "safety features"
+    ],
+    "rhino": [
+        "thick skin", "large horn", "big body", "short legs", "grayish color",
+        "wrinkled skin", "wide mouth", "small ears", "herbivorous", "large size"
+    ],
+    "rooster": [
+        "bright plumage", "comb on head", "wattle", "feathered tail", "beak",
+        "crow", "colorful feathers", "spurred legs", "strutting posture", "distinctive call"
+    ],
+    "saxophone": [
+        "curved metal body", "keys", "mouthpiece", "bell", "finger pads",
+        "reed", "brass material", "saxophone shape", "valves", "decorative details"
+    ],
+    "schooner": [
+        "two masts", "fore-and-aft rigging", "wooden hull", "sails", "deck",
+        "boat structure", "navigation lights", "rudder", "broad beam", "sail configuration"
+    ],
+    "scissors": [
+        "two blades", "handles", "pivot point", "sharp edges", "cutting action",
+        "metal construction", "handle grips", "precision cut", "symmetrical design", "adjustable screw"
+    ],
+    "scorpion": [
+        "clawed pincers", "curved tail", "stinger", "segmented body", "eight legs",
+        "hard exoskeleton", "beady eyes", "predatory", "dark color", "arachnid"
+    ],
+    "sea horse": [
+        "horse-like head", "curved tail", "small size", "finned body", "colorful patterns",
+        "prehensile tail", "delicate fins", "swimming posture", "slender body", "unique shape"
+    ],
+    "snoopy": [
+        "beagle dog", "white fur", "black ears", "red collar", "small nose",
+        "long tail", "cartoonish appearance", "happy expression", "big eyes", "round face"
+    ],
+    "soccer ball": [
+        "round shape", "black and white patches", "stitched panels", "hexagon pattern", "smooth surface",
+        "inflated", "standard size", "classic design", "used in sports", "textured surface"
+    ],
+    "stapler": [
+        "metal base", "spring mechanism", "staples", "top cover", "handle",
+        "clamping action", "small size", "office tool", "swing arm", "paper fastening"
+    ],
+    "starfish": [
+        "five arms", "spiny texture", "central disk", "radial symmetry", "marine habitat",
+        "colorful appearance", "soft body", "tube feet", "star-shaped", "varied colors"
+    ],
+    "stegosaurus": [
+        "plate-like structures", "spiked tail", "dorsal plates", "large body", "small head",
+        "quadrupedal stance", "prehistoric", "thick legs", "herbivorous", "distinctive back"
+    ],
+    "stop sign": [
+        "octagonal shape", "red color", "white border", "bold text", "reflective surface",
+        "standard signage", "traffic control", "clear visibility", "regulatory", "high contrast"
+    ],
+    "strawberry": [
+        "red color", "green leaves", "small seeds", "heart-shaped", "juicy",
+        "dotted surface", "fresh fruit", "sweet aroma", "bumpy texture", "leafy crown"
+    ],
+    "sunflower": [
+        "large yellow petals", "central disk", "seeds", "tall stalk", "green leaves",
+        "radiant appearance", "sunny color", "flower head", "round shape", "bright and vibrant"
+    ],
+    "tick": [
+        "small size", "six legs", "flat body", "round shape", "dark color",
+        "bloodsucking", "hard shell", "antennae", "tiny size", "parasitic"
+    ],
+    "trilobite": [
+        "segmented body", "exoskeleton", "compound eyes", "three-lobed shape", "fossilized",
+        "marine arthropod", "hard shell", "bumpy texture", "prehistoric", "distinctive segments"
+    ],
+    "umbrella": [
+        "circular canopy", "metal ribs", "handle", "waterproof material", "foldable",
+        "protective cover", "varied colors", "handle grip", "collapsible", "shade provision"
+    ],
+    "watch": [
+        "round face", "dial", "hour and minute hands", "band", "crown",
+        "numerals or markers", "chronograph", "metal or leather band", "small size", "time display"
+    ],
+    "water lilly": [
+        "round petals", "floating leaves", "central pod", "smooth surface", "water habitat",
+        "delicate appearance", "varied colors", "broad leaves", "calm water surface", "symmetrical shape"
+    ],
+    "wheelchair": [
+        "large wheels", "armrests", "footrests", "seat cushion", "backrest",
+        "foldable frame", "movable parts", "sturdy construction", "adjustable features", "accessible design"
+    ],
+    "wild cat": [
+        "spotted or striped fur", "muscular body", "sharp claws", "large eyes", "powerful limbs",
+        "tail", "predatory behavior", "stealthy movements", "distinctive markings", "acute senses"
+    ],
+    "windsor chair": [
+        "spindle back", "wooden seat", "armrests", "turned legs", "circular seat",
+        "simple design", "splayed legs", "traditionally crafted", "wooden material", "classic style"
+    ],
+    "wrench": [
+        "adjustable jaws", "metal construction", "handle", "open-ended", "fixed or adjustable",
+        "gripping teeth", "mechanical tool", "used for turning", "varied sizes", "used in repairs"
+    ],
+    "yin yang": [
+        "black and white halves", "circular shape", "symbolic design", "interlocking circles", "balance",
+        "opposing elements", "flowing lines", "traditional symbol", "harmonious appearance", "cultural significance"
+    ]
+}

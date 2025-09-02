@@ -1,0 +1,502 @@
+{
+    "707-320": [
+        "four engines", "slim fuselage", "swept-back wings", "distinctive nose shape",
+        "triangular winglets", "classic jetliner design", "large, round engines", "wing-mounted engines", 
+        "short fuselage", "forward-mounted engine nacelles"
+    ],
+    "727-200": [
+        "three engines", "T-tail configuration", "mid-mounted engines", "rear-mounted engines",
+        "distinctive tail design", "trapezoidal wings", "short fuselage", "large engine nacelles", 
+        "swept-back winglets", "rounded nose"
+    ],
+    "737-200": [
+        "two engines", "wing-mounted engines", "short fuselage", "distinctive nose shape",
+        "classic jetliner design", "swept-back wings", "small winglets", "round engine nacelles",
+        "wide, low-set fuselage", "smaller dimensions"
+    ],
+    "737-300": [
+        "two engines", "wing-mounted engines", "slightly extended fuselage", "winglets",
+        "classic jetliner design", "swept-back wings", "round engine nacelles", "large tail fin",
+        "mid-sized dimensions", "smooth fuselage"
+    ],
+    "737-400": [
+        "two engines", "wing-mounted engines", "longer fuselage", "winglets",
+        "classic jetliner design", "swept-back wings", "round engine nacelles", "large tail fin",
+        "increased passenger capacity", "smooth fuselage"
+    ],
+    "737-500": [
+        "two engines", "wing-mounted engines", "shorter fuselage", "winglets",
+        "classic jetliner design", "swept-back wings", "round engine nacelles", "compact size",
+        "distinctive nose shape", "smooth fuselage"
+    ],
+    "737-600": [
+        "two engines", "wing-mounted engines", "shorter fuselage", "winglets",
+        "classic jetliner design", "swept-back wings", "round engine nacelles", "compact size",
+        "distinctive nose shape", "shorter overall length"
+    ],
+    "737-700": [
+        "two engines", "wing-mounted engines", "slightly extended fuselage", "winglets",
+        "classic jetliner design", "swept-back wings", "round engine nacelles", "large tail fin",
+        "smooth fuselage", "slight increase in capacity"
+    ],
+    "737-800": [
+        "two engines", "wing-mounted engines", "longer fuselage", "winglets",
+        "classic jetliner design", "swept-back wings", "round engine nacelles", "large tail fin",
+        "increased passenger capacity", "smooth fuselage"
+    ],
+    "737-900": [
+        "two engines", "wing-mounted engines", "longer fuselage", "winglets",
+        "classic jetliner design", "swept-back wings", "round engine nacelles", "large tail fin",
+        "highest passenger capacity in 737 series", "smooth fuselage"
+    ],
+    "747-100": [
+        "four engines", "humpbacked upper deck", "large fuselage", "swept-back wings",
+        "distinctive nose shape", "large round engines", "double-decker design", "high wing placement",
+        "shorter wingspan compared to later models", "large tail fin"
+    ],
+    "747-200": [
+        "four engines", "humpbacked upper deck", "large fuselage", "swept-back wings",
+        "distinctive nose shape", "large round engines", "double-decker design", "high wing placement",
+        "extended wingspan", "large tail fin"
+    ],
+    "747-300": [
+        "four engines", "extended upper deck", "larger fuselage", "swept-back wings",
+        "distinctive nose shape", "large round engines", "double-decker design", "high wing placement",
+        "extended wingspan", "large tail fin"
+    ],
+    "747-400": [
+        "four engines", "extended upper deck", "largest fuselage", "swept-back wings",
+        "distinctive nose shape", "large round engines", "double-decker design", "high wing placement",
+        "winglets", "large tail fin"
+    ],
+    "757-200": [
+        "two engines", "long fuselage", "swept-back wings", "winglets",
+        "distinctive nose shape", "mid-sized engines", "smooth fuselage", "large tail fin",
+        "longer fuselage compared to 737", "narrow body"
+    ],
+    "757-300": [
+        "two engines", "longer fuselage", "swept-back wings", "winglets",
+        "distinctive nose shape", "mid-sized engines", "smooth fuselage", "large tail fin",
+        "extended passenger capacity", "narrow body"
+    ],
+    "767-200": [
+        "two engines", "wide-body fuselage", "swept-back wings", "winglets",
+        "distinctive nose shape", "mid-sized engines", "large tail fin", "broad fuselage",
+        "shorter wingspan compared to 767-300", "smooth fuselage"
+    ],
+    "767-300": [
+        "two engines", "wide-body fuselage", "swept-back wings", "winglets",
+        "distinctive nose shape", "mid-sized engines", "large tail fin", "longer wingspan compared to 767-200",
+        "broad fuselage", "smooth fuselage"
+    ],
+    "767-400": [
+        "two engines", "wide-body fuselage", "extended wingspan", "swept-back wings",
+        "winglets", "distinctive nose shape", "mid-sized engines", "large tail fin",
+        "longest variant of 767", "broad fuselage"
+    ],
+    "777-200": [
+        "two engines", "wide-body fuselage", "large winglets", "swept-back wings",
+        "distinctive nose shape", "large, round engines", "high wing placement", "large tail fin",
+        "smooth fuselage", "longer wingspan"
+    ],
+    "777-300": [
+        "two engines", "wide-body fuselage", "largest wingspan", "swept-back wings",
+        "large winglets", "distinctive nose shape", "large, round engines", "high wing placement",
+        "largest variant of 777", "smooth fuselage"
+    ],
+    "A300B4": [
+        "two engines", "wide-body fuselage", "shorter wingspan", "distinctive nose shape",
+        "swept-back wings", "mid-sized engines", "smooth fuselage", "large tail fin",
+        "broad fuselage", "early wide-body design"
+    ],
+    "A310": [
+        "two engines", "wide-body fuselage", "extended wingspan", "distinctive nose shape",
+        "swept-back wings", "mid-sized engines", "smooth fuselage", "large tail fin",
+        "longer wingspan compared to A300", "broad fuselage"
+    ],
+    "A318": [
+        "two engines", "narrow-body fuselage", "short fuselage", "distinctive nose shape",
+        "swept-back wings", "smaller engines", "compact design", "winglets",
+        "smooth fuselage", "shorter wingspan"
+    ],
+    "A319": [
+        "two engines", "narrow-body fuselage", "short fuselage", "distinctive nose shape",
+        "swept-back wings", "smaller engines", "compact design", "winglets",
+        "smooth fuselage", "shorter wingspan"
+    ],
+    "A320": [
+        "two engines", "narrow-body fuselage", "medium fuselage", "distinctive nose shape",
+        "swept-back wings", "mid-sized engines", "winglets", "smooth fuselage",
+        "standard jetliner design", "large tail fin"
+    ],
+    "A321": [
+        "two engines", "narrow-body fuselage", "extended fuselage", "distinctive nose shape",
+        "swept-back wings", "mid-sized engines", "winglets", "smooth fuselage",
+        "longer wingspan compared to A320", "large tail fin"
+    ],
+    "A330-200": [
+        "two engines", "wide-body fuselage", "medium wingspan", "swept-back wings",
+        "distinctive nose shape", "mid-sized engines", "winglets", "smooth fuselage",
+        "broad body", "large tail fin"
+    ],
+    "A330-300": [
+        "two engines", "wide-body fuselage", "longer wingspan", "swept-back wings",
+        "distinctive nose shape", "mid-sized engines", "winglets", "smooth fuselage",
+        "extended fuselage", "large tail fin"
+    ],
+    "A340-200": [
+        "four engines", "wide-body fuselage", "medium wingspan", "swept-back wings",
+        "distinctive nose shape", "large engines", "smooth fuselage", "large tail fin",
+        "quad-engine design", "broad body"
+    ],
+    "A340-300": [
+        "four engines", "wide-body fuselage", "longer wingspan", "swept-back wings",
+        "distinctive nose shape", "large engines", "smooth fuselage", "large tail fin",
+        "extended fuselage", "quad-engine design"
+    ],
+    "A340-500": [
+        "four engines", "wide-body fuselage", "extended wingspan", "swept-back wings",
+        "distinctive nose shape", "large engines", "smooth fuselage", "large tail fin",
+        "longer fuselage", "quad-engine design"
+    ],
+    "A340-600": [
+        "four engines", "wide-body fuselage", "largest wingspan", "swept-back wings",
+        "distinctive nose shape", "large engines", "smooth fuselage", "large tail fin",
+        "longest fuselage", "quad-engine design"
+    ],
+    "A380": [
+        "four engines", "wide-body fuselage", "double-decker design", "distinctive nose shape",
+        "large, round engines", "large wingspan", "swept-back wings", "winglets",
+        "high-wing placement", "large tail fin"
+    ],
+    "ATR-42": [
+        "twin engines", "propeller-driven", "short fuselage", "distinctive nose shape",
+        "high-mounted wings", "compact design", "small winglets", "large propellers",
+        "smooth fuselage", "small tail fin"
+    ],
+    "ATR-72": [
+        "twin engines", "propeller-driven", "longer fuselage", "distinctive nose shape",
+        "high-mounted wings", "compact design", "small winglets", "large propellers",
+        "smooth fuselage", "larger tail fin"
+    ],
+    "An-12": [
+        "four engines", "twin-tail design", "wide-body fuselage", "swept-back wings",
+        "large engines", "distinctive nose shape", "smooth fuselage", "high-mounted wings",
+        "large tail fins", "robust design"
+    ],
+    "BAE 146-200": [
+        "four engines", "T-tail configuration", "compact fuselage", "distinctive nose shape",
+        "wing-mounted engines", "small winglets", "smooth fuselage", "short wingspan",
+        "small engines", "rounded design"
+    ],
+    "BAE 146-300": [
+        "four engines", "T-tail configuration", "longer fuselage", "distinctive nose shape",
+        "wing-mounted engines", "small winglets", "smooth fuselage", "extended wingspan",
+        "small engines", "rounded design"
+    ],
+    "BAE-125": [
+        "two engines", "twin-engine design", "compact fuselage", "distinctive nose shape",
+        "small wings", "smooth fuselage", "small winglets", "sleek design",
+        "rounded tail", "compact size"
+    ],
+    "Beechcraft 1900": [
+        "twin engines", "propeller-driven", "short fuselage", "distinctive nose shape",
+        "high-mounted wings", "compact design", "small winglets", "large propellers",
+        "smooth fuselage", "small tail fin"
+    ],
+    "Boeing 717": [
+        "two engines", "narrow-body fuselage", "short fuselage", "distinctive nose shape",
+        "wing-mounted engines", "smooth fuselage", "winglets", "compact design",
+        "rounded tail", "small engines"
+    ],
+    "C-130": [
+        "four turboprop engines", "high-mounted wings", "large cargo door", "rear ramp door",
+        "distinctive nose shape", "short fuselage", "large vertical stabilizer", "high wing design",
+        "rugged, military appearance", "wing-mounted engines"
+    ],
+    "C-47": [
+        "twin piston engines", "high-mounted wings", "twin-engine tail design", "bulbous nose",
+        "curved fuselage", "short wingspan", "rear cargo door", "classic military transport design",
+        "propeller-driven", "distinctive twin-engine nacelles"
+    ],
+    "CRJ-200": [
+        "twin engines", "narrow-body fuselage", "short fuselage", "swept-back wings",
+        "distinctive nose shape", "wing-mounted engines", "small winglets", "smooth fuselage",
+        "small engine nacelles", "compact regional jet design"
+    ],
+    "CRJ-700": [
+        "twin engines", "narrow-body fuselage", "longer fuselage", "swept-back wings",
+        "distinctive nose shape", "wing-mounted engines", "small winglets", "smooth fuselage",
+        "increased passenger capacity", "regional jet design"
+    ],
+    "CRJ-900": [
+        "twin engines", "narrow-body fuselage", "longer fuselage", "swept-back wings",
+        "distinctive nose shape", "wing-mounted engines", "small winglets", "smooth fuselage",
+        "larger regional jet", "increased passenger capacity"
+    ],
+    "Cessna 172": [
+        "single piston engine", "high-mounted wings", "small, round engine nacelle", "short fuselage",
+        "classic general aviation design", "high-wing configuration", "fixed landing gear", 
+        "smooth fuselage", "round nose", "low winglets"
+    ],
+    "Cessna 208": [
+        "single turboprop engine", "high-mounted wings", "large cargo door", "high-wing design",
+        "distinctive nose shape", "short fuselage", "large engine nacelle", "fixed landing gear",
+        "rugged design", "compact size"
+    ],
+    "Cessna 525": [
+        "twin engines", "low-mounted wings", "swept-back wings", "smooth fuselage",
+        "distinctive nose shape", "small, round engine nacelles", "business jet design", 
+        "winglets", "small tail fin", "sleek appearance"
+    ],
+    "Cessna 560": [
+        "twin engines", "low-mounted wings", "swept-back wings", "smooth fuselage",
+        "distinctive nose shape", "larger engine nacelles", "business jet design", 
+        "winglets", "larger tail fin", "sleek appearance"
+    ],
+    "Challenger 600": [
+        "twin engines", "low-mounted wings", "swept-back wings", "large fuselage",
+        "distinctive nose shape", "large, round engines", "business jet design", "winglets",
+        "large tail fin", "smooth fuselage"
+    ],
+    "DC-10": [
+        "three engines", "triple-engine tail configuration", "wide-body fuselage", "swept-back wings",
+        "distinctive nose shape", "large, round engines", "high wing placement", "large vertical stabilizer",
+        "smooth fuselage", "large tail engine"
+    ],
+    "DC-3": [
+        "twin piston engines", "high-mounted wings", "classic, round fuselage", "distinctive nose shape",
+        "short wingspan", "curved fuselage", "propeller-driven", "rear cargo door",
+        "classic design", "small engine nacelles"
+    ],
+    "DC-6": [
+        "four piston engines", "high-mounted wings", "large fuselage", "distinctive nose shape",
+        "swept-back wings", "large, round engines", "smooth fuselage", "large vertical stabilizer",
+        "classic design", "mid-size propeller-driven"
+    ],
+    "DC-8": [
+        "four engines", "long fuselage", "swept-back wings", "distinctive nose shape",
+        "large, round engines", "wing-mounted engines", "classic jetliner design", "smooth fuselage",
+        "large tail fin", "longer wingspan"
+    ],
+    "DC-9-30": [
+        "two engines", "short fuselage", "swept-back wings", "distinctive nose shape",
+        "wing-mounted engines", "small winglets", "smooth fuselage", "compact regional jet design",
+        "round engine nacelles", "shorter wingspan"
+    ],
+    "DH-82": [
+        "biplane design", "two wings stacked vertically", "single engine", "round fuselage",
+        "classic tail design", "wing struts", "tailwheel landing gear", "propeller-driven",
+        "classic aviation design", "open cockpit"
+    ],
+    "DHC-1": [
+        "biplane design", "two wings stacked vertically", "single engine", "round fuselage",
+        "wing struts", "classic tail design", "tailwheel landing gear", "propeller-driven",
+        "open cockpit", "classic aviation design"
+    ],
+    "DHC-6": [
+        "twin turboprop engines", "high-mounted wings", "short fuselage", "large cargo door",
+        "distinctive nose shape", "high-wing design", "large engine nacelles", "smooth fuselage",
+        "rugged design", "compact size"
+    ],
+    "DHC-8-100": [
+        "twin turboprop engines", "high-mounted wings", "medium fuselage", "distinctive nose shape",
+        "winglets", "large engine nacelles", "smooth fuselage", "high-wing design",
+        "larger passenger capacity", "small tail fin"
+    ],
+    "DHC-8-300": [
+        "twin turboprop engines", "high-mounted wings", "longer fuselage", "distinctive nose shape",
+        "winglets", "large engine nacelles", "smooth fuselage", "extended passenger capacity",
+        "high-wing design", "larger tail fin"
+    ],
+    "DR-400": [
+        "single piston engine", "high-mounted wings", "round fuselage", "classic design",
+        "fixed landing gear", "smooth fuselage", "small engine nacelle", "low winglets",
+        "compact size", "small tail fin"
+    ],
+    "Dornier 328": [
+        "twin turboprop engines", "high-mounted wings", "distinctive nose shape", "large engines",
+        "smooth fuselage", "high-wing design", "compact size", "winglets",
+        "large cargo door", "rugged design"
+    ],
+    "E-170": [
+        "twin engines", "narrow-body fuselage", "swept-back wings", "distinctive nose shape",
+        "wing-mounted engines", "smooth fuselage", "small winglets", "compact regional jet design",
+        "small engine nacelles", "modern design"
+    ],
+    "E-190": [
+        "twin engines", "narrow-body fuselage", "longer fuselage", "swept-back wings",
+        "distinctive nose shape", "wing-mounted engines", "smooth fuselage", "winglets",
+        "increased passenger capacity", "larger regional jet"
+    ],
+    "E-195": [
+        "twin engines", "narrow-body fuselage", "longer fuselage", "swept-back wings",
+        "distinctive nose shape", "wing-mounted engines", "smooth fuselage", "winglets",
+        "largest of E-Jet series", "increased passenger capacity"
+    ],
+    "EMB-120": [
+        "twin turboprop engines", "high-mounted wings", "short fuselage", "distinctive nose shape",
+        "winglets", "large engine nacelles", "smooth fuselage", "high-wing design",
+        "compact regional design", "small tail fin"
+    ],
+    "ERJ 135": [
+        "twin engines", "narrow-body fuselage", "short fuselage", "distinctive nose shape",
+        "swept-back wings", "wing-mounted engines", "smooth fuselage", "small winglets",
+        "compact regional jet design", "small engine nacelles"
+    ],
+    "ERJ 145": [
+        "twin engines", "narrow-body fuselage", "medium fuselage", "distinctive nose shape",
+        "swept-back wings", "wing-mounted engines", "smooth fuselage", "winglets",
+        "increased passenger capacity", "regional jet design"
+    ],
+    "Embraer Legacy 600": [
+        "twin engines", "low-mounted wings", "large fuselage", "distinctive nose shape",
+        "swept-back wings", "large engine nacelles", "smooth fuselage", "business jet design",
+        "winglets", "large tail fin"
+    ],
+    "Eurofighter Typhoon": [
+        "twin engines", "delta wings", "canard design", "distinctive nose shape", 
+        "large vertical stabilizers", "winglets", "high-performance design", "sleek fuselage",
+        "advanced aerodynamics", "small, compact design"
+    ],
+    "F-16A/B": [
+        "single engine", "delta wings", "canard design", "distinctive nose shape",
+        "large vertical stabilizer", "winglets", "high-performance design", "sleek fuselage",
+        "compact design", "advanced aerodynamics"
+    ],
+    "F/A-18": [
+        "twin engines", "delta wings", "canard design", "distinctive nose shape",
+        "large vertical stabilizers", "winglets", "high-performance design", "sleek fuselage",
+        "carrier-based design", "advanced avionics"
+    ],
+    "Falcon 2000": [
+        "twin engines", "low-mounted wings", "smooth fuselage", "distinctive nose shape",
+        "winglets", "large engine nacelles", "business jet design", "large tail fin",
+        "sleek appearance", "high-performance"
+    ],
+    "Falcon 900": [
+        "twin engines", "low-mounted wings", "large fuselage", "distinctive nose shape",
+        "winglets", "smooth fuselage", "large engine nacelles", "business jet design",
+        "large tail fin", "high-performance"
+    ],
+    "Fokker 100": [
+        "twin engines", "narrow-body fuselage", "swept-back wings", "distinctive nose shape",
+        "wing-mounted engines", "smooth fuselage", "winglets", "compact regional jet design",
+        "small engine nacelles", "rounded tail"
+    ],
+    "Fokker 50": [
+        "twin turboprop engines", "high-mounted wings", "short fuselage", "distinctive nose shape",
+        "winglets", "large engines", "smooth fuselage", "high-wing design",
+        "compact regional design", "small tail fin"
+    ],
+    "Fokker 70": [
+        "twin engines", "narrow-body fuselage", "swept-back wings", "distinctive nose shape",
+        "wing-mounted engines", "smooth fuselage", "winglets", "compact regional jet design",
+        "small engine nacelles", "rounded tail"
+    ],
+    "Global Express": [
+        "twin engines", "low-mounted wings", "large fuselage", "distinctive nose shape",
+        "smooth fuselage", "winglets", "large engine nacelles", "business jet design",
+        "large tail fin", "sleek appearance"
+    ],
+    "Gulfstream IV": [
+        "twin engines", "low-mounted wings", "large fuselage", "distinctive nose shape",
+        "winglets", "smooth fuselage", "large engine nacelles", "business jet design",
+        "large tail fin", "sleek appearance"
+    ],
+    "Gulfstream V": [
+        "twin engines", "low-mounted wings", "large fuselage", "distinctive nose shape",
+        "winglets", "smooth fuselage", "large engine nacelles", "business jet design",
+        "large tail fin", "sleek appearance"
+    ],
+    "Hawk T1": [
+        "twin engines", "delta wings", "distinctive nose shape", "canard design",
+        "large vertical stabilizers", "winglets", "high-performance design", "military jet",
+        "compact design", "sleek appearance"
+    ],
+    "Il-76": [
+        "four engines", "high-mounted wings", "large cargo door", "distinctive nose shape",
+        "wide-body fuselage", "large engine nacelles", "high-wing design", "rugged appearance",
+        "large vertical stabilizers", "military transport aircraft"
+    ],
+    "L-1011": [
+        "three engines", "triple-engine tail configuration", "wide-body fuselage", "swept-back wings",
+        "distinctive nose shape", "large engines", "smooth fuselage", "large vertical stabilizer",
+        "high wing placement", "large tail engine"
+    ],
+    "MD-11": [
+        "three engines", "wide-body fuselage", "swept-back wings", "distinctive nose shape",
+        "large, round engines", "wing-mounted engines", "smooth fuselage", "large vertical stabilizer",
+        "extended fuselage", "triple-engine tail"
+    ],
+    "MD-80": [
+        "two engines", "narrow-body fuselage", "swept-back wings", "distinctive nose shape",
+        "wing-mounted engines", "smooth fuselage", "winglets", "compact regional jet design",
+        "small engine nacelles", "rounded tail"
+    ],
+    "MD-87": [
+        "two engines", "narrow-body fuselage", "shorter fuselage", "swept-back wings",
+        "distinctive nose shape", "wing-mounted engines", "smooth fuselage", "winglets",
+        "compact regional jet design", "small engine nacelles"
+    ],
+    "MD-90": [
+        "two engines", "narrow-body fuselage", "longer fuselage", "swept-back wings",
+        "distinctive nose shape", "wing-mounted engines", "smooth fuselage", "winglets",
+        "extended passenger capacity", "rounded tail"
+    ],
+    "Metroliner": [
+        "twin engines", "high-mounted wings", "short fuselage", "distinctive nose shape",
+        "large propellers", "winglets", "high-wing design", "compact regional aircraft",
+        "small tail fin", "propeller-driven"
+    ],
+    "Model B200": [
+        "twin engines", "high-mounted wings", "short fuselage", "distinctive nose shape",
+        "large propellers", "winglets", "high-wing design", "compact regional aircraft",
+        "smooth fuselage", "small tail fin"
+    ],
+    "PA-28": [
+        "single piston engine", "high-mounted wings", "short fuselage", "distinctive nose shape",
+        "small engine nacelle", "fixed landing gear", "classic design", "smooth fuselage",
+        "round nose", "compact size"
+    ],
+    "SR-20": [
+        "single piston engine", "high-mounted wings", "smooth fuselage", "distinctive nose shape",
+        "small engine nacelle", "fixed landing gear", "modern general aviation design", 
+        "small winglets", "compact size", "rounded tail"
+    ],
+    "Saab 2000": [
+        "twin turboprop engines", "high-mounted wings", "longer fuselage", "distinctive nose shape",
+        "winglets", "large engines", "smooth fuselage", "high-wing design", 
+        "large passenger capacity", "compact tail fin"
+    ],
+    "Saab 340": [
+        "twin turboprop engines", "high-mounted wings", "shorter fuselage", "distinctive nose shape",
+        "winglets", "large engines", "smooth fuselage", "high-wing design",
+        "regional aircraft", "small tail fin"
+    ],
+    "Spitfire": [
+        "single piston engine", "low-mounted wings", "classic, elliptical wing shape", "distinctive nose shape",
+        "round fuselage", "propeller-driven", "short fuselage", "military design", "tailwheel landing gear",
+        "smooth fuselage"
+    ],
+    "Tornado": [
+        "twin engines", "variable-sweep wings", "distinctive nose shape", "large vertical stabilizers",
+        "wing-mounted engines", "high-performance design", "military jet", "swept-back wings",
+        "advanced avionics", "sleek appearance"
+    ],
+    "Tu-134": [
+        "twin engines", "narrow-body fuselage", "swept-back wings", "distinctive nose shape",
+        "wing-mounted engines", "smooth fuselage", "small winglets", "compact design",
+        "rounded tail", "classic Soviet design"
+    ],
+    "Tu-154": [
+        "three engines", "narrow-body fuselage", "swept-back wings", "distinctive nose shape",
+        "wing-mounted engines", "smooth fuselage", "large vertical stabilizer", "classic Soviet design",
+        "longer fuselage", "triple-engine tail"
+    ],
+    "Yak-42": [
+        "three engines", "narrow-body fuselage", "swept-back wings", "distinctive nose shape",
+        "wing-mounted engines", "smooth fuselage", "large vertical stabilizers", "Soviet design",
+        "extended fuselage", "triple-engine tail"
+    ]
+}

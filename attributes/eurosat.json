@@ -1,0 +1,122 @@
+{
+    "Annual Crop Land": [
+        "rectangular or polygonal field boundaries",
+        "uniform rows or grid patterns within fields",
+        "consistent color or texture indicating crop type",
+        "clear, tilled soil between crop rows",
+        "seasonal color changes from planting to harvest",
+        "associated with flat or gently sloping terrain",
+        "visible access paths or dirt roads around fields",
+        "geometric, organized layout",
+        "smooth texture with little tree cover",
+        "occasional irrigation equipment or water lines"
+    ],
+    "Forest": [
+        "dense, continuous canopy cover",
+        "non-uniform shapes of tree-covered areas",
+        "smooth to textured appearance due to tree crowns",
+        "variety of green shades from diverse tree types",
+        "no clear roads or paths within forested areas",
+        "associated with undisturbed, natural land",
+        "visible natural gaps or clearings",
+        "shadows from taller trees creating depth",
+        "homogeneous green areas with minimal bare ground",
+        "occasional dark patches from evergreen trees"
+    ],
+    "Herbaceous Vegetation Land": [
+        "sparse to moderately dense grassy areas",
+        "smooth texture with uniform green color",
+        "lighter green tones compared to forests",
+        "irregular patches without defined edges",
+        "associated with open grasslands or meadows",
+        "few to no visible shadows from short vegetation",
+        "occasional bare patches or low shrubs",
+        "non-geometric, natural distribution",
+        "gradual transitions into surrounding land types",
+        "seasonal variations in green to brown hues"
+    ],
+    "Highway or Road": [
+        "long, continuous linear features with smooth edges",
+        "dark pavement with lighter road markings",
+        "consistent width along the road length",
+        "associated with straight or gently curved paths",
+        "connections to intersections or smaller roads",
+        "visible overpasses or underpasses",
+        "absence of vegetation on paved surfaces",
+        "regular shadows from vehicles or guardrails",
+        "parallel lanes or median visible on larger roads",
+        "high contrast with surrounding land cover"
+    ],
+    "Industrial Buildings": [
+        "large rectangular or square rooftops",
+        "light-colored, metallic, or concrete roofing",
+        "smooth surfaces with minimal vegetation nearby",
+        "associated with clustered, densely packed structures",
+        "visible access roads and parking areas",
+        "organized grid-like or complex layouts",
+        "distinct shadows from taller structures",
+        "occasional open storage areas or equipment yards",
+        "often surrounded by fences or barriers",
+        "gray or white colors predominating"
+    ],
+    "Pasture Land": [
+        "large, open green areas with minimal tree cover",
+        "smooth, even texture with lighter green tones",
+        "scattered bare soil patches or grassy areas",
+        "fenced boundaries creating subtle divisions",
+        "associated with flat or gently rolling terrain",
+        "visible water troughs or small structures",
+        "non-geometric, expansive layout",
+        "gradual changes in color from wear or seasons",
+        "sparse distribution of trees or shrubs",
+        "uniform color indicating grassland use"
+    ],
+    "Permanent Crop Land": [
+        "rows or grids of trees, vines, or bushes",
+        "clear, uniform spacing between plants",
+        "darker green hues compared to open fields",
+        "repetitive, orderly patterns across fields",
+        "associated with orchards, vineyards, or plantations",
+        "visible roads or paths separating rows",
+        "shadows from trees or vines creating depth",
+        "permanent structures for crop support or irrigation",
+        "geometric boundaries of fields or orchards",
+        "dense arrangement of vegetation in each row"
+    ],
+    "Residential Buildings": [
+        "clusters of smaller, uniformly spaced rooftops",
+        "mixed colors and shapes indicating different houses",
+        "associated with organized street grids or cul-de-sacs",
+        "visible streets and green spaces interspersed",
+        "shadows from buildings and nearby trees",
+        "occasional open areas or parks",
+        "fences or boundaries around individual properties",
+        "decorative or plain roofs, often red or gray",
+        "compact, dense structure in urban areas",
+        "non-uniform arrangement with varying house sizes"
+    ],
+    "River": [
+        "long, narrow, winding blue or green channel",
+        "smooth surface often reflective in appearance",
+        "irregular edges along the water boundary",
+        "associated with low-lying or carved terrain",
+        "occasional sandbars or islands within the river",
+        "curves and bends along the river's path",
+        "darker, consistent color compared to land",
+        "visible connections to smaller tributaries",
+        "shadowing along banks or from bridges",
+        "gradual changes in width along its course"
+    ],
+    "Sea or Lake": [
+        "large, continuous blue area with smooth texture",
+        "curved or irregular shoreline",
+        "reflective surface with slight wave patterns",
+        "associated with flat or coastal landscapes",
+        "gradual color transitions from deep blue to lighter shades",
+        "no distinct structures or vegetation within the water",
+        "visible shorelines or land masses surrounding",
+        "simple, open water surface with few features",
+        "minimal shadows from surrounding topography",
+        "high-contrast appearance relative to adjacent land"
+    ]
+}
