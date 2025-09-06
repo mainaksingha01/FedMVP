@@ -72,6 +72,51 @@ class FeedForward(nn.Module):
         )
     def forward(self, x):
         return self.net(x)
+    
+    
+class ImageEncoder(nn.Module):
+    def __init__(self, clip_model):
+        super().__init__()
+
+        self.conv1 = clip_model.conv1
+        self.class_embedding = clip_model.class_embedding
+        self.positional_embedding = clip_model.positional_embedding
+        self.ln_pre = clip_model.ln_pre
+        self.transformer = clip_model.transformer
+        self.ln_post = clip_model.ln_post
+        self.proj = clip_model.proj
+
+    def forward(self, x: torch.Tensor, crossattn=None, textfeat_ctx=None, apply_lora=None, cross_loraparams=None, use_lora=None):
+        x = self.conv1(x)  # shape = [*, width, grid, grid]
+        x = x.reshape(x.shape[0], x.shape[1], -1)  # shape = [*, width, grid ** 2]
+        x = x.permute(0, 2, 1)  # shape = [*, grid ** 2, width]
+        x = torch.cat([self.class_embedding.to(x.dtype) + torch.zeros(x.shape[0], 1, x.shape[-1], dtype=x.dtype, device=x.device), x], dim=1)  # shape = [*, grid ** 2 + 1, width]
+        x = x + self.positional_embedding.to(x.dtype)
+        #x = torch.cat([x, vis_ctx], dim=1)  
+        if textfeat_ctx is not None:
+            x_patch = x[:, 1:, :]
+            if use_lora == False:
+                x_patch = crossattn(x_patch, textfeat_ctx, textfeat_ctx)
+            else:
+                queryA, queryB, keyA, keyB, valueA, valueB = cross_loraparams()              
+                x_patch = crossattn(apply_lora(x_patch, queryA, queryB), apply_lora(textfeat_ctx, keyA, keyB), apply_lora(textfeat_ctx, valueA, valueB))
+            x_patch = x_patch.permute(0, 2, 1)
+            vis_ctx = nn.AdaptiveAvgPool1d(4)(x_patch)
+            vis_ctx = vis_ctx.permute(0, 2, 1)
+            #vis_ctx = crossattn(textfeat_ctx, vis_ctx)
+            x = torch.cat([x, vis_ctx], dim=1) 
+        x = self.ln_pre(x)
+
+        x = x.permute(1, 0, 2)  # NLD -> LND
+        x = self.transformer(x)
+        x = x.permute(1, 0, 2)  # LND -> NLD
+
+        x = self.ln_post(x[:, 0, :])
+
+        if self.proj is not None:
+            x = x @ self.proj
+
+        return x
 
 
 class TextEncoder(nn.Module):
@@ -204,9 +249,9 @@ class FedMVP(nn.Module):
         self.cfg = cfg
         self.dtype = clip_model.dtype
         self.device = device
-        self.clip_model_ = clip_model
         self.text_encoder = TextEncoder(clip_model)
         self.prompt_learner = PromptLearner(cfg, clip_model)
+        self.clip_model_zs = clip_model
     
     
     def forward(self, image, classnames, dataname):
@@ -268,8 +313,8 @@ class FedMVP(nn.Module):
             descriptions = load_gpt_descriptions('attributes/domainnet.json', classnames, dataname)
      
                 
-        description_encodings = compute_description_encodings(self.clip_model_, gpt_descriptions, self.device)
-        description_loads = compute_description_encodings(self.clip_model_, descriptions, self.device)
+        description_encodings = compute_description_encodings(self.clip_model_zs, gpt_descriptions, self.device)
+        description_loads = compute_description_encodings(self.clip_model_zs, descriptions, self.device)
          
         
         image_description_similarity = [None]*len(classnames)
@@ -277,7 +322,7 @@ class FedMVP(nn.Module):
         
         text_description_similarity = [None]*len(classnames)
         text_description_similarity_cumulative = [None]*len(classnames)
-        logit_scale = self.clip_model_.logit_scale.exp()
+        logit_scale = self.clip_model_zs.logit_scale.exp()
         
         text_feat = torch.stack(list(description_loads.values()), dim=0)
         text_feat = text_feat.reshape(text_feat.shape[0]*text_feat.shape[1], text_feat.shape[2])
@@ -285,10 +330,10 @@ class FedMVP(nn.Module):
         
         crossattn, textfeat_ctx, apply_lora, cross_loraparams, use_lora = self.prompt_learner(text_feat)
         
-        image_features = self.clip_model_.encode_image(image.type(self.dtype), crossattn, textfeat_ctx.type(self.dtype), apply_lora, cross_loraparams, use_lora)
+        image_features = self.image_encoder(image.type(self.dtype), crossattn, textfeat_ctx.type(self.dtype), apply_lora, cross_loraparams, use_lora)
         image_features = image_features / image_features.norm(dim=-1, keepdim=True)
         
-        batch_image_features = self.clip_model_.encode_image(flip_transform(image.type(self.dtype)))
+        batch_image_features = self.clip_model_zs.encode_image(flip_transform(image.type(self.dtype)))
         batch_image_features = batch_image_features / batch_image_features.norm(dim=-1, keepdim=True)
         
         for i, (k, v) in enumerate(description_encodings.items()):
