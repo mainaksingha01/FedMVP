@@ -187,7 +187,6 @@ class ResidualAttentionBlock(nn.Module):
         x = x + self.mlp(self.ln_2(x))
         return x
 
-
 class Transformer(nn.Module):
     def __init__(self, width: int, layers: int, heads: int, attn_mask: torch.Tensor = None):
         super().__init__()
@@ -197,7 +196,6 @@ class Transformer(nn.Module):
 
     def forward(self, x: torch.Tensor):
         return self.resblocks(x)
-
 
 class VisionTransformer(nn.Module):
     def __init__(self, input_resolution: int, patch_size: int, width: int, layers: int, heads: int, output_dim: int):
@@ -216,25 +214,12 @@ class VisionTransformer(nn.Module):
         self.ln_post = LayerNorm(width)
         self.proj = nn.Parameter(scale * torch.randn(width, output_dim))
 
-    def forward(self, x: torch.Tensor, crossattn=None, textfeat_ctx=None, apply_lora=None, cross_loraparams=None, use_lora=None):
+    def forward(self, x):
         x = self.conv1(x)  # shape = [*, width, grid, grid]
         x = x.reshape(x.shape[0], x.shape[1], -1)  # shape = [*, width, grid ** 2]
         x = x.permute(0, 2, 1)  # shape = [*, grid ** 2, width]
         x = torch.cat([self.class_embedding.to(x.dtype) + torch.zeros(x.shape[0], 1, x.shape[-1], dtype=x.dtype, device=x.device), x], dim=1)  # shape = [*, grid ** 2 + 1, width]
         x = x + self.positional_embedding.to(x.dtype)
-        #x = torch.cat([x, vis_ctx], dim=1)  
-        if textfeat_ctx is not None:
-            x_patch = x[:, 1:, :]
-            if use_lora == False:
-                x_patch = crossattn(x_patch, textfeat_ctx, textfeat_ctx)
-            else:
-                queryA, queryB, keyA, keyB, valueA, valueB = cross_loraparams()              
-                x_patch = crossattn(apply_lora(x_patch, queryA, queryB), apply_lora(textfeat_ctx, keyA, keyB), apply_lora(textfeat_ctx, valueA, valueB))
-            x_patch = x_patch.permute(0, 2, 1)
-            vis_ctx = nn.AdaptiveAvgPool1d(4)(x_patch)
-            vis_ctx = vis_ctx.permute(0, 2, 1)
-            #vis_ctx = crossattn(textfeat_ctx, vis_ctx)
-            x = torch.cat([x, vis_ctx], dim=1) 
         x = self.ln_pre(x)
 
         x = x.permute(1, 0, 2)  # NLD -> LND
@@ -346,11 +331,8 @@ class CLIP(nn.Module):
     def dtype(self):
         return self.visual.conv1.weight.dtype
 
-    def encode_image(self, image, crossattn=None, textfeat_ctx=None, apply_lora=None, cross_loraparams=None, use_lora=None):
-        if textfeat_ctx is not None:
-            return self.visual(image.type(self.dtype), crossattn, textfeat_ctx.type(self.dtype), apply_lora, cross_loraparams, use_lora)
-        else:
-            return self.visual(image.type(self.dtype))
+    def encode_image(self, image):
+        return self.visual(image.type(self.dtype))
 
     def encode_text(self, text):
         x = self.token_embedding(text).type(self.dtype)  # [batch_size, n_ctx, d_model]
